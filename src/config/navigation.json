@@ -1,0 +1,607 @@
+{
+  "header": [
+    {
+      "id": 1,
+      "name": "Servicios",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Branding",
+          "path": "/branding"
+        },
+        {
+          "id": 2,
+          "name": "Desarrollo web",
+          "path": "/web"
+        },
+        {
+          "id": 3,
+          "name": "SEO/AEO",
+          "path": "/seo"
+        },
+        {
+          "id": 4,
+          "name": "DISEÑO",
+          "path": "/design"
+        },
+        {
+          "id": 5,
+          "name": "VIDEO",
+          "path": "/video"
+        },
+        {
+          "id": 6,
+          "name": "INTEGRACIÓNES IA",
+          "path": "/ai-agency"
+        },
+        {
+          "id": 7,
+          "name": "MARKETING",
+          "path": "/marketing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Nosotros",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Service Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Services",
+              "path": "/service"
+            },
+            {
+              "id": 2,
+              "name": "Service Details",
+              "path": "/service/interaction-design"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Project Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Project",
+              "path": "/work"
+            },
+            {
+              "id": 2,
+              "name": "Project Details",
+              "path": "/work/victoria_kinko"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Team Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Team",
+              "path": "/team"
+            },
+            {
+              "id": 2,
+              "name": "Team Details",
+              "path": "/team/kamal-abraham"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Career Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Career",
+              "path": "/career"
+            },
+            {
+              "id": 2,
+              "name": "Career Details",
+              "path": "/career/frontend-developer"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Faq",
+          "path": "/faq"
+        },
+        {
+          "id": 6,
+          "name": "404 Page",
+          "path": "/404"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "CASOS DE EXITO",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Portfolio Carousel",
+          "path": "/portfolio/carousel"
+        },
+        {
+          "id": 2,
+          "name": "Portfolio Material",
+          "path": "/portfolio/material"
+        },
+        {
+          "id": 3,
+          "name": "Portfolio Slicer",
+          "path": "/portfolio/slicer"
+        },
+        {
+          "id": 4,
+          "name": "Portfolio Spring",
+          "path": "/portfolio/spring"
+        }
+      ]
+    },    
+    {
+      "id": 4,
+      "name": "Blog",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Blog",
+          "path": "/blog"
+        },
+        {
+          "id": 2,
+          "name": "Blog Details",
+          "path": "/blog/building-quality"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Contacto",
+      "path": "/contact"
+    }
+  ],
+  "header2": [
+    {
+      "id": 1,
+      "name": "Demos",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Branding Agency",
+          "path": "/branding"
+        },
+        {
+          "id": 2,
+          "name": "Web Agency",
+          "path": "/web"
+        },
+        {
+          "id": 3,
+          "name": "Seo Agency",
+          "path": "/seo"
+        },
+        {
+          "id": 4,
+          "name": "Design Agency",
+          "path": "/design"
+        },
+        {
+          "id": 5,
+          "name": "Video Agency",
+          "path": "/video"
+        },
+        {
+          "id": 6,
+          "name": "AI Agency",
+          "path": "/ai-agency"
+        },
+        {
+          "id": 7,
+          "name": "Marketing Agency",
+          "path": "/marketing"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "About",
+      "path": "/about"
+    },
+    {
+      "id": 3,
+      "name": "Portfolio",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Portfolio Carousel",
+          "path": "/portfolio/carousel"
+        },
+        {
+          "id": 2,
+          "name": "Portfolio Material",
+          "path": "/portfolio/material"
+        },
+        {
+          "id": 3,
+          "name": "Portfolio Slicer",
+          "path": "/portfolio/slicer"
+        },
+        {
+          "id": 4,
+          "name": "Portfolio Spring",
+          "path": "/portfolio/spring"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Pages",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Service Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Services",
+              "path": "/service"
+            },
+            {
+              "id": 2,
+              "name": "Service Details",
+              "path": "/service/interaction-design"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Project Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Project",
+              "path": "/work"
+            },
+            {
+              "id": 2,
+              "name": "Project Details",
+              "path": "/work/victoria_kinko"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Team Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Team",
+              "path": "/team"
+            },
+            {
+              "id": 2,
+              "name": "Team Details",
+              "path": "/team/kamal-abraham"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Career Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Career",
+              "path": "/career"
+            },
+            {
+              "id": 2,
+              "name": "Career Details",
+              "path": "/career/frontend-developer"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Faq",
+          "path": "/faq"
+        },
+        {
+          "id": 6,
+          "name": "404 Page",
+          "path": "/404"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Blog",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Blog",
+          "path": "/blog"
+        },
+        {
+          "id": 2,
+          "name": "Blog Details",
+          "path": "/blog/building-quality"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Contact",
+      "path": "/contact"
+    }
+  ],
+  "footer1": [
+    {
+      "id": 1,
+      "title": "Service",
+      "children": [
+        {
+          "name": "UI/UX Design",
+          "path": "/"
+        },
+        {
+          "name": "Web Design",
+          "path": "/"
+        },
+        {
+          "name": "Branding",
+          "path": "/"
+        },
+        {
+          "name": "Webflow",
+          "path": "/"
+        },
+        {
+          "name": "Development",
+          "path": "/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Company",
+      "children": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Agency",
+          "path": "/"
+        },
+        {
+          "name": "Achievement",
+          "path": "/"
+        },
+        {
+          "name": "Career",
+          "path": "/career"
+        },
+        {
+          "name": "Contact Us",
+          "path": "/contact"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "New York",
+      "children": [
+        {
+          "isLocation": true,
+          "name": "1772 Street Charleston, New York",
+          "path": "https://maps.app.goo.gl/ebuSmBmMBFCDUSjE7"
+        },
+        {
+          "name": "+1287-360-633",
+          "path": "tel:+1287-360-633"
+        },
+        {
+          "name": "info@yourwebsite.com",
+          "path": "mailto:info@yourwebsite.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "London",
+      "children": [
+        {
+          "isLocation": true,
+          "name": "96 Park Hall, West Dulwich",
+          "path": "https://maps.app.goo.gl/ebuSmBmMBFCDUSjE7"
+        },
+        {
+          "name": "+1287-360-633",
+          "path": "tel:+1287-360-633"
+        },
+        {
+          "name": "info@yourwebsite.com",
+          "path": "mailto:info@yourwebsite.com"
+        }
+      ]
+    }
+  ],
+  "footer2": {
+    "title": "{Get started} <br> now",
+    "subtitle": "If you would like to work with us or just want to get in touch, we’d love to hear from you!",
+    "locationData": [
+      {
+        "id": 1,
+        "city": "London",
+        "address": "Baltia Squar, Mark Street,London"
+      },
+      {
+        "id": 2,
+        "city": "New York",
+        "address": "Nenuya Centre, Elia Street New York, USA"
+      }
+    ],
+    "navData": [
+      {
+        "id": 1,
+        "name": "About Us",
+        "path": "/about"
+      },
+      {
+        "id": 2,
+        "name": "Privacy Policy",
+        "path": "/"
+      },
+      {
+        "id": 3,
+        "name": "Career",
+        "path": "/career"
+      },
+      {
+        "id": 4,
+        "name": "Sitemap",
+        "path": "/"
+      }
+    ]
+  },
+  "footer3": [
+    {
+      "id": 1,
+      "title": "Service",
+      "children": [
+        {
+          "name": "UI/UX Design",
+          "path": "/"
+        },
+        {
+          "name": "Web Design",
+          "path": "/"
+        },
+        {
+          "name": "Branding",
+          "path": "/"
+        },
+        {
+          "name": "Webflow",
+          "path": "/"
+        },
+        {
+          "name": "Development",
+          "path": "/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Company",
+      "children": [
+        {
+          "name": "Home",
+          "path": "/"
+        },
+        {
+          "name": "Agency",
+          "path": "/"
+        },
+        {
+          "name": "Achievement",
+          "path": "/"
+        },
+        {
+          "name": "Career",
+          "path": "/career"
+        },
+        {
+          "name": "Contact Us",
+          "path": "/contact"
+        }
+      ]
+    }
+  ],
+  "footer4": [
+    {
+      "id": 1,
+      "name": "Agency",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "name": "Trabaja con nosotros",
+      "path": "/career"
+    },
+    {
+      "id": 3,
+      "name": "Politica de privacidad de datos",
+      "path": "#"
+    },
+    {
+      "id": 4,
+      "name": "Contacto",
+      "path": "/contact"
+    }
+  ],
+  "footer4OLD": [
+    {
+      "id": 1,
+      "name": "Agency",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "name": "Career",
+      "path": "/career"
+    },
+    {
+      "id": 3,
+      "name": "Privacy",
+      "path": "/"
+    },
+    {
+      "id": 4,
+      "name": "Terms & condition",
+      "path": "/"
+    }
+  ]
+}
