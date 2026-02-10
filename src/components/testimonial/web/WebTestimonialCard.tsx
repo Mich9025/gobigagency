@@ -20,7 +20,7 @@ const WebTestimonialCard = ({
   author,
 }: Props) => {
   return (
-    <div className="w-[290px] sm:w-[340px] cursor-grab">
+    <div className="w-full cursor-grab">
       <div className="px-[30px] pt-[45px] pb-[40px] bg-[#f9f9f9] ">
         <span className="text-[36px] leading-[.88] font-teko font-semibold text-text-fixed inline-flex items-center gap-[2px]">
           {rating}

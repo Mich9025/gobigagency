@@ -21,7 +21,7 @@ const WebWork = ({ works }: Props) => {
   );
 
   return (
-    <div ref={containerRef}>
+    <div className="mt-32" ref={containerRef}>
       <div className="has_fade_anim">
         <div className="grid gap-[10px]">
           <Marquee direction="left" speed={300}>

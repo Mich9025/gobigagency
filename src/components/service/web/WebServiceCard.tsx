@@ -24,7 +24,7 @@ const WebServiceCard = ({ data, slug }: TServiceType) => {
             />
             <div>
               <p className="max-w-[340px]">{description}</p>
-              <div className="mt-[18px]">
+              {/* <div className="mt-[18px]">
                 <ul>
                   {features.slice(0, 3).map((feature, i) => (
                     <li className="text-[18px] leading-[1.41]" key={i}>
@@ -32,7 +32,7 @@ const WebServiceCard = ({ data, slug }: TServiceType) => {
                     </li>
                   ))}
                 </ul>
-              </div>
+              </div> */}
             </div>
           </div>
           <div className="w-[88px] h-[115px] border border-border rounded-[44px] inline-flex justify-center items-center">

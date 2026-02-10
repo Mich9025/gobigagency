@@ -16,7 +16,7 @@ const EmailInput2 = () => {
           <input
             type="email"
             className="text-[24px] bg-transparent text-text-fixed-2  focus:outline-none font-light w-full border-0"
-            placeholder="Enter your email"
+            placeholder="Dejanos tu Email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required

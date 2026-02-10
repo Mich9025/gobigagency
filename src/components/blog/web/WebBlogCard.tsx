@@ -14,7 +14,7 @@ const WebBlogCard = ({ data, slug }: TBlogType) => {
 
   return (
     <div className="has_fade_anim" data-fade-from="left" data-delay="0.15">
-      <Link href={`/blog/web/${slug}`}>
+      <Link href={`/blog/${slug}`}>
         <article className="pt-[28px] pb-[26px] px-[25px]  2xl:pt-[43px] 2xl:pb-[42px] 2xl:px-[45px] transition-all duration-500 bg-background-fixed hover:bg-theme group overflow-hidden">
           <h2 className="underline text-[24px] xl:text-[28px] 2xl:text-[36px] leading-[.88] text-text-fixed-2 !font-semibold uppercase group-hover:text-text-fixed transition-all duration-500">
             {title}
@@ -29,14 +29,18 @@ const WebBlogCard = ({ data, slug }: TBlogType) => {
             />
           </div>
           <p className="mt-[20px] text-text-fixed-3 transition-all duration-500 group-hover:text-text-fixed">
-            {short_description}
+            {short_description && short_description.length > 180
+              ? short_description.slice(0, 180) + "..."
+              : short_description}
           </p>
           <div>
             <h3 className="text-[24px] text-text-fixed-2 uppercase mt-5 font-medium transition-all duration-500 group-hover:text-text-fixed">
               {author_name}
             </h3>
             <span className="text-[16px] font-medium uppercase font-teko inline-block mt-2 transition-all duration-500 text-text-fixed-4">
-              {tags[0]?.name}, {tags[1]?.name}- {published_date}
+              {tags && tags.length > 0 && tags[0]?.name}
+              {tags && tags.length > 1 && `, ${tags[1]?.name}`} -{" "}
+              {published_date}
             </span>
           </div>
         </article>

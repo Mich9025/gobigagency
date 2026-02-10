@@ -40,7 +40,7 @@ const AiHeader = () => {
             )}
             href={"/contact"}
           >
-            <span data-text="Get in Touch">Get in Touch</span>
+            <span data-text="Agenda una llamada">Agenda una llamada</span>
           </Link>
           <SideNavModal />
         </div>

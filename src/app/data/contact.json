@@ -1,0 +1,33 @@
+{
+  "hero": {
+    "title": "¿Tienes alguna pregunta? <br> ¡Este es tu hogar digital!",
+    "images": [
+      "http://cms.gobigagency.co/wp-content/uploads/2026/02/615542.jpg",
+      "http://cms.gobigagency.co/wp-content/uploads/2026/02/126981.jpg",
+      "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg"
+    ],
+    "direct_contact": {
+        "title": "WhatsApp GoBig",
+        "link": "https://wa.me/573245034912"
+    }
+  },
+  "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg",
+  "contact": {
+    "header": {
+      "title": "¡Hemos estado esperándote!",
+      "description": "Suma el mejor talento del mercado, una gestión ágil y especializada con una participación perfecta"
+    },
+    "info": {
+      "title": "Queremos escucharte. ¡Déjanos saber cómo podemos ayudarte!",
+      "contact_list": {
+        "phone": "57 324 503 4912",
+        "email": "michelle.mendez@gobigagency.co",
+        "address": "Bogotá, Colombia"
+      }
+    }
+  },
+  "meta": {
+    "meta_title": "Contacto - GoBig Agency",
+    "meta_description": "Contáctanos para transformar tu presencia digital. Agencia líder en marketing digital y desarrollo web en Colombia."
+  }
+}

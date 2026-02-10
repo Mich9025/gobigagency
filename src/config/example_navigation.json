@@ -2,19 +2,39 @@
   "header": [
     {
       "id": 1,
-      "name": "INICIO",
-      "path": "/",
-      "hasChildren": false,
-      "children": [        
+      "name": "Servicios",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Branding",
+          "path": "/branding"
+        },
         {
           "id": 2,
-          "name": "DESARROLLO WEB",
-          "path": "/#"
-        },        
+          "name": "Desarrollo web",
+          "path": "/web"
+        },
+        {
+          "id": 3,
+          "name": "SEO/AEO",
+          "path": "/seo"
+        },
+        {
+          "id": 4,
+          "name": "DISEÑO",
+          "path": "/design"
+        },
+        {
+          "id": 5,
+          "name": "VIDEO",
+          "path": "/video"
+        },
         {
           "id": 6,
           "name": "INTEGRACIÓNES IA",
-          "path": "/agencia-ia"
+          "path": "/ai-agency"
         },
         {
           "id": 7,
@@ -25,34 +45,28 @@
     },
     {
       "id": 2,
-      "name": "Servicios",
+      "name": "Nosotros",
       "path": "#",
       "hasChildren": true,
-      "children": [        
-        {
-          "id": 2,
-          "name": "DESARROLLO WEB",
-          "path": "/#"
-        },        
-        {
-          "id": 6,
-          "name": "INTEGRACIÓNES IA",
-          "path": "/agencia-ia"
-        },
-        {
-          "id": 7,
-          "name": "MARKETING",
-          "path": "/marketing"
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "name": "Nosotros",
-      "path": "/nosotros",
-      "hasChildren": false,
       "children": [
-        
+        {
+          "id": 1,
+          "name": "Service Pages",
+          "path": "#",
+          "hasChildren": true,
+          "children": [
+            {
+              "id": 1,
+              "name": "Services",
+              "path": "/service"
+            },
+            {
+              "id": 2,
+              "name": "Service Details",
+              "path": "/service/interaction-design"
+            }
+          ]
+        },
         {
           "id": 2,
           "name": "Project Pages",
@@ -118,12 +132,40 @@
           "path": "/404"
         }
       ]
-    },        
+    },
     {
-      "id": 5,
+      "id": 3,
+      "name": "CASOS DE EXITO",
+      "path": "#",
+      "hasChildren": true,
+      "children": [
+        {
+          "id": 1,
+          "name": "Portfolio Carousel",
+          "path": "/portfolio/carousel"
+        },
+        {
+          "id": 2,
+          "name": "Portfolio Material",
+          "path": "/portfolio/material"
+        },
+        {
+          "id": 3,
+          "name": "Portfolio Slicer",
+          "path": "/portfolio/slicer"
+        },
+        {
+          "id": 4,
+          "name": "Portfolio Spring",
+          "path": "/portfolio/spring"
+        }
+      ]
+    },    
+    {
+      "id": 4,
       "name": "Blog",
-      "path": "/blog",
-      "hasChildren": false,
+      "path": "#",
+      "hasChildren": true,
       "children": [
         {
           "id": 1,
@@ -140,7 +182,7 @@
     {
       "id": 6,
       "name": "Contacto",
-      "path": "/contacto"
+      "path": "/contact"
     }
   ],
   "header2": [
@@ -427,8 +469,8 @@
     }
   ],
   "footer2": {
-    "title": "{Conversemos} <br> Ahora",
-    "subtitle": "Si deseas trabajar con nosotros o simplemente ponerte en contacto, nos encantaría saber de ti.",
+    "title": "{Get started} <br> now",
+    "subtitle": "If you would like to work with us or just want to get in touch, we’d love to hear from you!",
     "locationData": [
       {
         "id": 1,
@@ -513,7 +555,7 @@
         },
         {
           "name": "Contact Us",
-          "path": "/contacto"
+          "path": "/contact"
         }
       ]
     }
@@ -537,7 +579,7 @@
     {
       "id": 4,
       "name": "Contacto",
-      "path": "/contacto"
+      "path": "/contact"
     }
   ],
   "footer4OLD": [

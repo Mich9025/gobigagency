@@ -32,9 +32,9 @@ const WebBlog = ({ title, description, action_btn, blogs }: Props) => {
     <section ref={containerRef}>
       <div className="inner-container">
         <div className="py-[60px] xl:py-[140px]">
-          <div className="grid gap-y-[10px] gap-x-[60px] sm:grid-cols-[auto,auto] justify-between">
+          <div className="grid gap-y-[10px] gap-x-[60px] sm:grid-cols-[auto,auto] ">
             <div>
-              <WebSectionTItle title={title} className=" max-w-[540px]" />
+              <WebSectionTItle title={title} className=" max-w-full" />
             </div>
             <div
               className="has_fade_anim text-center sm:text-start"

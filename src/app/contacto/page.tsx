@@ -1,13 +1,11 @@
-import { getMainPage } from "@/lib/helper/contentConverter";
 import ContactHero from "@/components/contact/ContactHero";
 import Image from "next/image";
 import ContactArea from "@/components/contact/ContactArea";
 import SeoData from "@/components/tools/SeoData";
+import contactData from "@/app/data/contact.json";
 
 const Contact = () => {
-  const { data: contactData } = getMainPage("/contact/_index.mdx");
-
-  const { meta, hero, image, contact: mainContact } = contactData || {};
+  const { meta, hero, image, contact: mainContact } = contactData;
   return (
     <main>
       <SeoData

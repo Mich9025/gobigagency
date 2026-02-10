@@ -1,0 +1,805 @@
+{
+  "hero": {
+    "title": "{ Te ayudamos<br> a} crecer tu startup",
+    "sub_title": "Agencia de Marketing",
+    "shape_1": {
+      "light": "/assets/imgs/shape/img-s-30.png",
+      "dark": "/assets/imgs/shape/img-s-30-light.png"
+    },
+    "shape_2": {
+      "light": "/assets/imgs/shape/img-s-31.png",
+      "dark": "/assets/imgs/shape/img-s-31-light.png"
+    },
+    "info": {
+      "customers_label_1": "Tenemos",
+      "customers": "18k+",
+      "customers_label_2": "clientes en todo el mundo",
+      "client_img": {
+        "light": "/assets/imgs/client/img-s-3.png",
+        "dark": "/assets/imgs/client/img-s-3-light.png"
+      },
+      "description": "Creemos que la medida más segura del éxito es cuando un cliente se asocia con nosotros, más de la mitad de nuestros clientes permanecen con nosotros por más de un solo proyecto.",
+      "action_btn": {
+        "enable": true,
+        "label": "empezar",
+        "link": "/contacto"
+      }
+    }
+  },
+  "image": {
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg",
+    "video": "https://crowdytheme.com/assets/wp-content/uploads/2024/05/insurance-video.mp4"
+  },
+  "feature": {
+    "features": [
+      {
+        "icon": "/assets/imgs/icon/icon-s-9.png",
+        "title": "{Escala} tu equipo de negocios rápidamente",
+        "description": "Teniendo estos en el mercado para tu negocio"
+      },
+      {
+        "icon": "/assets/imgs/icon/icon-s-10.png",
+        "title": "{Mejora} la tasa de venta anual de productos",
+        "description": "Rastrea automáticamente la actividad y paga directamente en la plataforma"
+      },
+      {
+        "icon": "/assets/imgs/icon/icon-s-11.png",
+        "title": "{Aumenta} tu tráfico real",
+        "description": "Solo se te cobrará por el tiempo que tu equipo esté activo."
+      }
+    ]
+  },
+  "service": {
+    "title": "Marketing {innovador basado en datos} por un equipo profesional.",
+    "subtitle": "",
+    "meta_text": "Excelencia en marketing <br> {Estratégico}",
+    "description": "Hoy en día, los consumidores dependen en gran medida de los medios digitales para investigar productos. Investigamos una marca e interactuamos con ella, según el 51% de los consumidores."
+  },
+  "services": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "{Optimización} de<br> Motores de Búsqueda (SEO/AEO)",
+        "icon": "",
+        "bg_video": "https://crowdytheme.com/assets/wp-content/uploads/2024/06/production_id_4779866-1080p-1.mp4",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "Impulsados por la búsqueda incesante de superar los límites y redefinir lo que es posible.",
+        "contactTitle": "Comienza tu experiencia con GoBig",
+        "btn_text": "Contáctanos",
+        "features": [
+          "Desarrollo de API",
+          "WordPress",
+          "Migración a la Nube",
+          "Desarrollo Front End",
+          "JavaScript",
+          "Framework Flutter"
+        ],
+        "faq_title": "Creación de productos para usuarios amigables",
+        "faqs": [
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Traer su experiencia individual y creativa",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Diseño centrado en el humano para desafíos",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Desarrollando aplicaciones web principales",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          }
+        ],
+        "meta": {
+          "meta_title": "Optimización de Motores de Búsqueda",
+          "meta_description": "Descripción de Optimización de Motores de Búsqueda"
+        }
+      },
+      "slug": "search-engine-optimization",
+      "content": "Estamos buscando un Diseñador Junior - Nivel Medio para unirse a nuestro equipo. \r\nApoyarás la ejecución de proyectos de diseño gráfico y digital, trabajando estrechamente con el equipo interno de creativos, gerentes de proyectos, \r\nel Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño, una apertura para aprender y tomar dirección, junto con una fuerte intuición de diseño estético.\r\n\r\nEquipo interno de creativos, gerentes de proyectos, el Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planificación y bocetos\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Trabajo en equipo\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Diagrama de flujo y wireframe\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Pruebas de experiencia de usuario\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## Reemplazamos wireframes poco confiables y agencias costosas por una de las capas mejor organizadas.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Recibe tu diseño en unos pocos días hábiles y mantente actualizado sobre el proceso. Todo lo que necesitas para una marca impulsada digitalmente. Proposición definida. Realización conceptual. Logotipo, tipo, apariencia, sensación, tono, movimiento, contenido - lo tenemos cubierto.\"\r\n  description2=\"Haz llegar el mensaje de tu marca. Creamos creatividades de campaña dinámicas que involucran a las audiencias, donde sea que sean más talentosas. Da vida a tu marca, comunica tu propuesta de valor con una configuración ágil a través de la creatividad.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Marketing por<br> {Correo Electrónico}",
+        "icon": "",
+        "bg_video": "https://crowdytheme.com/assets/wp-content/uploads/2024/06/production_id_4779866-1080p-1.mp4",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "abordamos cada proyecto con meticulosa atención al detalle y la mejor calidad.",
+        "contactTitle": "Comienza tu experiencia con GoBig",
+        "btn_text": "Contáctanos",
+        "features": [
+          "Desarrollo de API",
+          "WordPress",
+          "Migración a la Nube",
+          "Desarrollo Front End",
+          "JavaScript",
+          "Framework Flutter"
+        ],
+        "faq_title": "Creación de productos para usuarios amigables",
+        "faqs": [
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Traer su experiencia individual y creativa",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Diseño centrado en el humano para desafíos",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Desarrollando aplicaciones web principales",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          }
+        ],
+        "meta": {
+          "meta_title": "Marketing por Correo Electrónico",
+          "meta_description": "Descripción de Marketing por Correo Electrónico"
+        }
+      },
+      "slug": "email-marketing",
+      "content": "Estamos buscando un Diseñador Junior - Nivel Medio para unirse a nuestro equipo. \r\nApoyarás la ejecución de proyectos de diseño gráfico y digital, trabajando estrechamente con el equipo interno de creativos, gerentes de proyectos, \r\nel Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño, una apertura para aprender y tomar dirección, junto con una fuerte intuición de diseño estético.\r\n\r\nEquipo interno de creativos, gerentes de proyectos, el Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planificación y bocetos\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Trabajo en equipo\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Diagrama de flujo y wireframe\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Pruebas de experiencia de usuario\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## Reemplazamos wireframes poco confiables y agencias costosas por una de las capas mejor organizadas.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Recibe tu diseño en unos pocos días hábiles y mantente actualizado sobre el proceso. Todo lo que necesitas para una marca impulsada digitalmente. Proposición definida. Realización conceptual. Logotipo, tipo, apariencia, sensación, tono, movimiento, contenido - lo tenemos cubierto.\"\r\n  description2=\"Haz llegar el mensaje de tu marca. Creamos creatividades de campaña dinámicas que involucran a las audiencias, donde sea que sean más talentosas. Da vida a tu marca, comunica tu propuesta de valor con una configuración ágil a través de la creatividad.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Marketing<br> {Social}",
+        "icon": "",
+        "bg_video": "https://crowdytheme.com/assets/wp-content/uploads/2024/06/production_id_4779866-1080p-1.mp4",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "Ya sea elaborando una identidad de marca visualmente impactante, diseñando de manera inmersiva.",
+        "contactTitle": "Comienza tu experiencia con GoBig",
+        "btn_text": "Contáctanos",
+        "features": [
+          "Desarrollo de API",
+          "WordPress",
+          "Migración a la Nube",
+          "Desarrollo Front End",
+          "JavaScript",
+          "Framework Flutter"
+        ],
+        "faq_title": "Creación de productos para usuarios amigables",
+        "faqs": [
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Traer su experiencia individual y creativa",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Diseño centrado en el humano para desafíos",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Desarrollando aplicaciones web principales",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          }
+        ],
+        "meta": {
+          "meta_title": "Marketing Social",
+          "meta_description": "Descripción de Marketing Social"
+        }
+      },
+      "slug": "social-marketing",
+      "content": "Estamos buscando un Diseñador Junior - Nivel Medio para unirse a nuestro equipo. \r\nApoyarás la ejecución de proyectos de diseño gráfico y digital, trabajando estrechamente con el equipo interno de creativos, gerentes de proyectos, \r\nel Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño, una apertura para aprender y tomar dirección, junto con una fuerte intuición de diseño estético.\r\n\r\nEquipo interno de creativos, gerentes de proyectos, el Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planificación y bocetos\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Trabajo en equipo\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Diagrama de flujo y wireframe\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Pruebas de experiencia de usuario\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## Reemplazamos wireframes poco confiables y agencias costosas por una de las capas mejor organizadas.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Recibe tu diseño en unos pocos días hábiles y mantente actualizado sobre el proceso. Todo lo que necesitas para una marca impulsada digitalmente. Proposición definida. Realización conceptual. Logotipo, tipo, apariencia, sensación, tono, movimiento, contenido - lo tenemos cubierto.\"\r\n  description2=\"Haz llegar el mensaje de tu marca. Creamos creatividades de campaña dinámicas que involucran a las audiencias, donde sea que sean más talentosas. Da vida a tu marca, comunica tu propuesta de valor con una configuración ágil a través de la creatividad.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 4,
+        "title": "Marketing de<br> {Contenido}",
+        "icon": "",
+        "bg_video": "https://crowdytheme.com/assets/wp-content/uploads/2024/06/production_id_4779866-1080p-1.mp4",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "Los consumidores de hoy dependen en gran medida de los medios digitales para investigar productos con investigación.",
+        "contactTitle": "Comienza tu experiencia con GoBig",
+        "btn_text": "Contáctanos",
+        "features": [
+          "Desarrollo de API",
+          "WordPress",
+          "Migración a la Nube",
+          "Desarrollo Front End",
+          "JavaScript",
+          "Framework Flutter"
+        ],
+        "faq_title": "Creación de productos para usuarios amigables",
+        "faqs": [
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Traer su experiencia individual y creativa",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Diseño centrado en el humano para desafíos",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "El diseño debería enriquecer nuestro día",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          },
+          {
+            "question": "Desarrollando aplicaciones web principales",
+            "answer": "Desplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez construir enviar escalar."
+          }
+        ],
+        "meta": {
+          "meta_title": "Marketing de Contenido",
+          "meta_description": "Descripción de Marketing de Contenido"
+        }
+      },
+      "slug": "content-marketing",
+      "content": "Estamos buscando un Diseñador Junior - Nivel Medio para unirse a nuestro equipo. \r\nApoyarás la ejecución de proyectos de diseño gráfico y digital, trabajando estrechamente con el equipo interno de creativos, gerentes de proyectos, \r\nel Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño, una apertura para aprender y tomar dirección, junto con una fuerte intuición de diseño estético.\r\n\r\nEquipo interno de creativos, gerentes de proyectos, el Director Creativo y el equipo de desarrollo para combinar las necesidades del usuario y los objetivos comerciales en experiencias de diseño fluidas y efectivas. \r\nNecesitarás demostrar una comprensión fundamental de los principios de diseño\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planificación y bocetos\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Trabajo en equipo\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Diagrama de flujo y wireframe\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n    <WorkStep title=\"Pruebas de experiencia de usuario\" description=\"Diseño moderno y único desde un punto de vista práctico, corre el riesgo de no cumplir con las enormes expectativas\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## Reemplazamos wireframes poco confiables y agencias costosas por una de las capas mejor organizadas.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Recibe tu diseño en unos pocos días hábiles y mantente actualizado sobre el proceso. Todo lo que necesitas para una marca impulsada digitalmente. Proposición definida. Realización conceptual. Logotipo, tipo, apariencia, sensación, tono, movimiento, contenido - lo tenemos cubierto.\"\r\n  description2=\"Haz llegar el mensaje de tu marca. Creamos creatividades de campaña dinámicas que involucran a las audiencias, donde sea que sean más talentosas. Da vida a tu marca, comunica tu propuesta de valor con una configuración ágil a través de la creatividad.\"\r\n  />\r\n</div>"
+    }
+  ],
+  "works": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "{Inbiotech} - <br>Marca dermocosmética que buscaba aumentar <br> su conocimiento de marca y convertir su web en canal clave de ventas.",
+        "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/126981.jpg",
+        "date": "05 Nov 2024",
+        "tags": [
+          "Paid Media"
+        ],
+        "client": "Dirección de Arte, Diseño Web, Producción",
+        "action_btn": {
+          "enable": true,
+          "label": "Ver Sitio Web",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Crecimiento de Tráfico Busynet",
+          "meta_description": "Descripción de Crecimiento de Tráfico Busynet"
+        }
+      },
+      "slug": "busynet-traffic-grow",
+      "content": "\r\n<Statement title=\"Planteamiento del Problema\" description=\"Nos adentramos en el sueño de tu negocio para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Resultados y Métricas\r\nDesplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez \r\nconstruir, enviar escalar tu visión más eficiente. La jerarquía visual es el principio de organizar\r\nelementos para mostrar su orden de importancia. información fácilmente. Al disponer los elementos lógicamente\r\ny estratégicamente, los diseñadores influyen en las percepciones de los usuarios y los guían hacia las acciones deseadas. Los usuarios\r\nnotan los elementos más grandes más fácilmente pueden convertir.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Costo por lead cada mes en palabras clave no de marca.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total de leads generados cada mes\"/>\r\n<ResultBox value=\"66%\" title=\"Porcentaje de leads desde dispositivos móviles.\"/>\r\n<ResultBox value=\"143%\" title=\"Aumento en los ingresos generales desde el cambio a Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Dupla - <br>Necesidad de una estrategia de pauta efectiva para escalar <br>  la adquisición de clientes a la velocidad requerida tras recibir una nueva inversión.",
+        "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg",
+        "date": "05 Nov 2024",
+        "tags": [
+          "Paid Media"
+        ],
+        "client": "Dirección de Arte, Diseño Web, Producción",
+        "action_btn": {
+          "enable": true,
+          "label": "Ver Sitio Web",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Constructor de Rendimiento",
+          "meta_description": "Descripción del Constructor de Rendimiento"
+        }
+      },
+      "slug": "performance-builder",
+      "content": "\r\n<Statement title=\"Planteamiento del Problema\" description=\"Nos adentramos en el sueño de tu negocio para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Resultados y Métricas\r\nDesplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez \r\nconstruir, enviar escalar tu visión más eficiente. La jerarquía visual es el principio de organizar\r\nelementos para mostrar su orden de importancia. información fácilmente. Al disponer los elementos lógicamente\r\ny estratégicamente, los diseñadores influyen en las percepciones de los usuarios y los guían hacia las acciones deseadas. Los usuarios\r\nnotan los elementos más grandes más fácilmente pueden convertir.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Costo por lead cada mes en palabras clave no de marca.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total de leads generados cada mes\"/>\r\n<ResultBox value=\"66%\" title=\"Porcentaje de leads desde dispositivos móviles.\"/>\r\n<ResultBox value=\"143%\" title=\"Aumento en los ingresos generales desde el cambio a Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Nike (Proyecto We Run) - <br> Necesidad de material visual de alto estándar que proyectara el dinamismo y la identidad premium de la marca en sus campañas de running.",
+        "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/615542.jpg",
+        "date": "05 Nov 2024",
+        "tags": [
+          "Producción audiovisual"
+        ],
+        "client": "Dirección de Arte, Diseño Web, Producción",
+        "action_btn": {
+          "enable": true,
+          "label": "Ver Sitio Web",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Grabador de Espectadores Orgánicos",
+          "meta_description": "Descripción del Grabador de Espectadores Orgánicos"
+        }
+      },
+      "slug": "organic-viewers-recorder",
+      "content": "\r\n<Statement title=\"Planteamiento del Problema\" description=\"Nos adentramos en el sueño de tu negocio para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Resultados y Métricas\r\nDesplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez \r\nconstruir, enviar escalar tu visión más eficiente. La jerarquía visual es el principio de organizar\r\nelementos para mostrar su orden de importancia. información fácilmente. Al disponer los elementos lógicamente\r\ny estratégicamente, los diseñadores influyen en las percepciones de los usuarios y los guían hacia las acciones deseadas. Los usuarios\r\nnotan los elementos más grandes más fácilmente pueden convertir.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Costo por lead cada mes en palabras clave no de marca.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total de leads generados cada mes\"/>\r\n<ResultBox value=\"66%\" title=\"Porcentaje de leads desde dispositivos móviles.\"/>\r\n<ResultBox value=\"143%\" title=\"Aumento en los ingresos generales desde el cambio a Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 4,
+        "title": "Home Burgers - <br>Escalar el posicionamiento de marca y capturar nuevas audiencias en un mercado altamente competitivo.",
+        "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/126981.jpg",
+        "date": "05 Nov 2024",
+        "tags": [
+          "Producción audiovisual"
+        ],
+        "client": "Dirección de Arte, Diseño Web, Producción",
+        "action_btn": {
+          "enable": true,
+          "label": "Ver Sitio Web",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Gromroad Benko Vally",
+          "meta_description": "Descripción de Gromroad Benko Vally"
+        }
+      },
+      "slug": "gromroad-benko-vally",
+      "content": "\r\n<Statement title=\"Planteamiento del Problema\" description=\"Nos adentramos en el sueño de tu negocio para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Resultados y Métricas\r\nDesplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez \r\nconstruir, enviar escalar tu visión más eficiente. La jerarquía visual es el principio de organizar\r\nelementos para mostrar su orden de importancia. información fácilmente. Al disponer los elementos lógicamente\r\ny estratégicamente, los diseñadores influyen en las percepciones de los usuarios y los guían hacia las acciones deseadas. Los usuarios\r\nnotan los elementos más grandes más fácilmente pueden convertir.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Costo por lead cada mes en palabras clave no de marca.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total de leads generados cada mes\"/>\r\n<ResultBox value=\"66%\" title=\"Porcentaje de leads desde dispositivos móviles.\"/>\r\n<ResultBox value=\"143%\" title=\"Aumento en los ingresos generales desde el cambio a Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 5,
+        "title": "Farma de Colombia - <br>Estructura web deficiente para captar tráfico orgánico de pacientes y profesionales en categorías de salud competitivas.",
+        "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg",
+        "date": "05 Nov 2024",
+        "tags": [
+          "SEO/AEO"
+        ],
+        "client": "Dirección de Arte, Diseño Web, Producción",
+        "action_btn": {
+          "enable": true,
+          "label": "Ver Sitio Web",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Activo de Marketing Kakroll",
+          "meta_description": "Descripción de Activo de Marketing Kakroll"
+        }
+      },
+      "slug": "marketing-asset-kakroll",
+      "content": "\r\n<Statement title=\"Planteamiento del Problema\" description=\"Nos adentramos en el sueño de tu negocio para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Resultados y Métricas\r\nDesplegamos diseño creativo de clase mundial, equipo bajo demanda. Que puede diseñar la medida más segura del éxito es cuando un cliente se asocia con más de una vez \r\nconstruir, enviar escalar tu visión más eficiente. La jerarquía visual es el principio de organizar\r\nelementos para mostrar su orden de importancia. información fácilmente. Al disponer los elementos lógicamente\r\ny estratégicamente, los diseñadores influyen en las percepciones de los usuarios y los guían hacia las acciones deseadas. Los usuarios\r\nnotan los elementos más grandes más fácilmente pueden convertir.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Costo por lead cada mes en palabras clave no de marca.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total de leads generados cada mes\"/>\r\n<ResultBox value=\"66%\" title=\"Porcentaje de leads desde dispositivos móviles.\"/>\r\n<ResultBox value=\"143%\" title=\"Aumento en los ingresos generales desde el cambio a Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    }
+  ],
+  "workMain": {
+    "title": "Casos de éxito",
+    "sub_title": "Destacado",
+    "action_btn": {
+      "enable": true,
+      "label": "Ver más casos",
+      "link": "/casos-de-exito"
+    }
+  },
+  "about": {
+    "title": "{Nos adentramos en el sueño de tu negocio} para sacar a la superficie el valor subyacente que tu marca crea para sus clientes.",
+    "sub_title": "",
+    "description": "Con énfasis en la innovación, nos mantenemos a la vanguardia, adoptando tendencias emergentes, tecnología y metodología de marketing digital.",
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/group-creative-people-working-brainstorming-together-scaled.jpg"
+  },
+  "testimonial": {
+    "title": "{Lo que} nuestros clientes dicen de nosotros",
+    "testimonials": [
+      {
+        "text": "Cuando hablamos de Axtra, no nos referimos a un socio comercial típico, sino a un equipo que colabora con nosotros diariamente, siempre ahí para nosotros cuando nos encontramos",
+        "icon": {
+          "light": "/assets/imgs/icon/quote-3.png",
+          "dark": "/assets/imgs/icon/quote-3-dark.png"
+        },
+        "author": {
+          "name": "{Charry} Maron",
+          "post": "Desarrollador",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "text": "Cuando hablamos de Axtra, no nos referimos a un socio comercial típico, sino a un equipo que colabora con nosotros diariamente, siempre ahí para nosotros cuando nos encontramos",
+        "icon": {
+          "light": "/assets/imgs/icon/quote-3.png",
+          "dark": "/assets/imgs/icon/quote-3-dark.png"
+        },
+        "author": {
+          "name": "{Charry} Maron",
+          "post": "Desarrollador",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "text": "Cuando hablamos de Axtra, no nos referimos a un socio comercial típico, sino a un equipo que colabora con nosotros diariamente, siempre ahí para nosotros cuando nos encontramos",
+        "icon": {
+          "light": "/assets/imgs/icon/quote-3.png",
+          "dark": "/assets/imgs/icon/quote-3-dark.png"
+        },
+        "author": {
+          "name": "{Charry} Maron",
+          "post": "Desarrollador",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "text": "Cuando hablamos de Axtra, no nos referimos a un socio comercial típico, sino a un equipo que colabora con nosotros diariamente, siempre ahí para nosotros cuando nos encontramos",
+        "icon": {
+          "light": "/assets/imgs/icon/quote-3.png",
+          "dark": "/assets/imgs/icon/quote-3-dark.png"
+        },
+        "author": {
+          "name": "{Charry} Maron",
+          "post": "Desarrollador",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "text": "Cuando hablamos de Axtra, no nos referimos a un socio comercial típico, sino a un equipo que colabora con nosotros diariamente, siempre ahí para nosotros cuando nos encontramos",
+        "icon": {
+          "light": "/assets/imgs/icon/quote-3.png",
+          "dark": "/assets/imgs/icon/quote-3-dark.png"
+        },
+        "author": {
+          "name": "{Charry} Maron",
+          "post": "Desarrollador",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      }
+    ]
+  },
+  "funFact": {
+    "title": "{Aprende.} Haz y Construye",
+    "sub_title": "",
+    "description": "Empleamos un enfoque de marketing flexible que mejora tu productividad",
+    "projects": "25k",
+    "customers": "8k",
+    "experiences": 15,
+    "awards": 98
+  },
+  "banner": {
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/team-working-startup-business-meeting-1-scaled.jpg"
+  },
+  "clients": {
+    "brands": [
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/NOMBRE-SLOGAN-COLOR-2-JPG-Photoroom-copia.webp",
+          "light": "/assets/imgs/brand/img-s-19.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/LogotipoOpenpay_RGB_04-scaled.png",
+          "light": "/assets/imgs/brand/img-s-20.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/LOGOS-EN-ALTA_Logo-Cicaderm-BLANCO.png",
+          "light": "/assets/imgs/brand/img-s-21.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/logo-farma-colombia-blanco.png",
+          "light": "/assets/imgs/brand/img-s-22.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Logo-Vencol-02.png",
+          "light": "/assets/imgs/brand/img-s-23.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/logo-Grupo-Farma-Konsuma-blanco-plano.png",
+          "light": "/assets/imgs/brand/img-s-24.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Loctite-Logo.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Lila-del-viento-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/KIDCAL-DIAPO--scaled.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Joy-music-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Jelpit-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Inbiotech-Logo.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Henkel-Logo.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Granada-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Go-greenLogo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Duppla-Logo-blanco.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Cruz-verde-blanco.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Copia-de-Logo-Blanco.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Colfuturo-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Aula-Italia-Logo.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/ZULA-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Unicentro-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Tervi-Logo.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Spinning-center-gym-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Seguros-Bolivar-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Rancho-MX-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/PHARMAPIEL.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/PGA-Logo-scaled.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Nike-Logo-BW-scaled.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/MILPAX-F-Logo-blanco.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Milpax-Co-Logo-blanco.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Media-Luna-Logo-BW.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "http://cms.gobigagency.co/wp-content/uploads/2026/02/Maria-Papaya-Logo.png"
+        }
+      }
+    ]
+  },
+  "report": {
+    "title": "<span>¡Sí! trabajamos</span> inteligentemente juntos, no más duro.",
+    "description": "Atención, sacamos nuestras gafas redondas y nuestro suéter con parches en los codos para volver a los orígenes de la experiencia de usuario: la primera mención del usuario y su importancia nació en el",
+    "companies": [
+      "Google",
+      "Pinterest",
+      "Instagram"
+    ],
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/brainstorming-business-vision-teamwork-casual-concept-1-scaled.jpg",
+    "shape": {
+      "light": "/assets/imgs/shape/img-s-32.png",
+      "dark": "/assets/imgs/shape/img-s-32-light.png"
+    }
+  },
+  "clientTitle": {
+    "title": "<span>Estamos felices</span> de trabajar con las marcas más grandes del mundo"
+  },
+  "blog": {
+    "title": "<span>Diarios</span> de GoBig",
+    "action_btn": {
+      "enable": true,
+      "label": "ver más blogs",
+      "link": "/blog"
+    }
+  },
+  "blogs": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "Cómo crear tu carrera con propósito y ropa cómoda",
+        "title2": "<span>Cómo crear tu</span> carrera con propósito y ropa cómoda",
+        "short_description": "En los últimos tres años, los especialistas en marketing han enfrentado un viaje debido a los rápidos cambios en el consumo...",
+        "image": "/assets/imgs/blog/img-s-26.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-20.jpg",
+        "tags": [
+          {
+            "name": "Marca",
+            "link": "/"
+          },
+          {
+            "name": "diseño",
+            "link": "/"
+          },
+          {
+            "name": "figma",
+            "link": "/"
+          },
+          {
+            "name": "actualización",
+            "link": "/"
+          }
+        ],
+        "published_date": "MAR 26, 2024",
+        "author_name": "<span>Kim</span> Henry",
+        "author_image": "/assets/imgs/client/img-s-1.jpg",
+        "location": "IVA/IMPUESTOS",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "Cómo crear tu carrera con propósito y ropa cómoda",
+          "meta_description": "Descripción de Cómo crear tu carrera con propósito y ropa cómoda"
+        }
+      },
+      "slug": "how-to-create-your-purpose-filled-career-comfortable-clothes",
+      "content": "<Quote text=\"Cómodo forro completo de cuero llamativo detalle único en la punta lados bajos 'cortados' armonía limpia y elegante.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nNos encanta dar vida a los diseños como desarrolladores, y mi objetivo es hacerlo utilizando las herramientas de front-end que sean necesarias. \r\nMis herramientas preferidas son las bibliotecas de JavaScript más modernas como React.js, pero me gusta usar lo que sea mejor para las necesidades del sitio web. \r\nHay varias razones por las que una empresa consideraría un cambio de marca y no significa necesariamente que la empresa no haya tenido éxito.\r\n\r\nPero para que veas de dónde nace todo este error de los que acusan al placer y alaban al dolor, abriré todo el asunto, \r\ny explicaré las mismas cosas que fueron dichas por ese descubridor de la verdad y, por así decirlo, \r\nel arquitecto de una vida feliz.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Investigación y estrategia\"/>\r\n\r\nSiempre listos para superar los límites, especialmente cuando se trata de nuestra propia plataforma, \r\nOjo analítico crea un sitio que sea visualmente atractivo y también optimizado para el máximo rendimiento. \r\nTambién refleja perfectamente el viaje para ayudar a contar una historia para aumentar su comprensión e impulsar la acción. Para crear un sitio que sea visualmente atractivo para el máximo rendimiento.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Desarrollo de Marca\"/>\r\n  <Service title=\"Diseño UX/UI\"/>\r\n  <Service title=\"Desarrollo Front-end\"/>\r\n  <Service title=\"Redacción\"/>\r\n  <Service title=\"Desarrollo Shopify\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Marco de Trabajo\"/>\r\n\r\nAl igual que otros pseudo-elementos y selectores de pseudo-clases, :not() se puede encadenar con otras pseudo-clases y pseudo-elementos. \r\nPor ejemplo, lo siguiente agregará una palabra “¡Nuevo!” a los elementos de la lista que no tienen un nombre de clase .old, usando el pseudo-elemento ::after:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Cómo crear tu carrera con propósito ropa cómoda",
+        "title2": "<span>Cómo crear tu</span> carrera con propósito ropa cómoda",
+        "short_description": "En los últimos tres años, los especialistas en marketing han enfrentado un viaje debido a los rápidos cambios en el consumo...",
+        "image": "/assets/imgs/blog/img-s-26.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-20.jpg",
+        "tags": [
+          {
+            "name": "Marca",
+            "link": "/"
+          },
+          {
+            "name": "diseño",
+            "link": "/"
+          },
+          {
+            "name": "figma",
+            "link": "/"
+          },
+          {
+            "name": "actualización",
+            "link": "/"
+          }
+        ],
+        "published_date": "MAR 26, 2024",
+        "author_name": "<span>Kim</span> Henry",
+        "author_image": "/assets/imgs/client/img-s-1.jpg",
+        "location": "IVA/IMPUESTOS",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "Cómo crear tu carrera con propósito ropa cómoda",
+          "meta_description": "Descripción de Cómo crear tu carrera con propósito ropa cómoda"
+        }
+      },
+      "slug": "how-to-create-your-purpose-filled-career-comfortable-cloth",
+      "content": "<Quote text=\"Cómodo forro completo de cuero llamativo detalle único en la punta lados bajos 'cortados' armonía limpia y elegante.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nNos encanta dar vida a los diseños como desarrolladores, y mi objetivo es hacerlo utilizando las herramientas de front-end que sean necesarias. \r\nMis herramientas preferidas son las bibliotecas de JavaScript más modernas como React.js, pero me gusta usar lo que sea mejor para las necesidades del sitio web. \r\nHay varias razones por las que una empresa consideraría un cambio de marca y no significa necesariamente que la empresa no haya tenido éxito.\r\n\r\nPero para que veas de dónde nace todo este error de los que acusan al placer y alaban al dolor, abriré todo el asunto, \r\ny explicaré las mismas cosas que fueron dichas por ese descubridor de la verdad y, por así decirlo, \r\nel arquitecto de una vida feliz.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Investigación y estrategia\"/>\r\n\r\nSiempre listos para superar los límites, especialmente cuando se trata de nuestra propia plataforma, \r\nOjo analítico crea un sitio que sea visualmente atractivo y también optimizado para el máximo rendimiento. \r\nTambién refleja perfectamente el viaje para ayudar a contar una historia para aumentar su comprensión e impulsar la acción. Para crear un sitio que sea visualmente atractivo para el máximo rendimiento.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Desarrollo de Marca\"/>\r\n  <Service title=\"Diseño UX/UI\"/>\r\n  <Service title=\"Desarrollo Front-end\"/>\r\n  <Service title=\"Redacción\"/>\r\n  <Service title=\"Desarrollo Shopify\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Marco de Trabajo\"/>\r\n\r\nAl igual que otros pseudo-elementos y selectores de pseudo-clases, :not() se puede encadenar con otras pseudo-clases y pseudo-elementos. \r\nPor ejemplo, lo siguiente agregará una palabra “¡Nuevo!” a los elementos de la lista que no tienen un nombre de clase .old, usando el pseudo-elemento ::after:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Cómo crear tu carrera con propósito cómoda",
+        "title2": "<span>Cómo crear tu</span> carrera con propósito cómoda",
+        "short_description": "En los últimos tres años, los especialistas en marketing han enfrentado un viaje debido a los rápidos cambios en el consumo...",
+        "image": "/assets/imgs/blog/img-s-26.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-20.jpg",
+        "tags": [
+          {
+            "name": "Marca",
+            "link": "/"
+          },
+          {
+            "name": "diseño",
+            "link": "/"
+          },
+          {
+            "name": "figma",
+            "link": "/"
+          },
+          {
+            "name": "actualización",
+            "link": "/"
+          }
+        ],
+        "published_date": "MAR 26, 2024",
+        "author_name": "<span>Kim</span> Henry",
+        "author_image": "/assets/imgs/client/img-s-1.jpg",
+        "location": "IVA/IMPUESTOS",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "Cómo crear tu carrera con propósito cómoda",
+          "meta_description": "Descripción de Cómo crear tu carrera con propósito cómoda"
+        }
+      },
+      "slug": "how-to-create-your-purpose-filled-career-comfortable",
+      "content": "<Quote text=\"Cómodo forro completo de cuero llamativo detalle único en la punta lados bajos 'cortados' armonía limpia y elegante.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nNos encanta dar vida a los diseños como desarrolladores, y mi objetivo es hacerlo utilizando las herramientas de front-end que sean necesarias. \r\nMis herramientas preferidas son las bibliotecas de JavaScript más modernas como React.js, pero me gusta usar lo que sea mejor para las necesidades del sitio web. \r\nHay varias razones por las que una empresa consideraría un cambio de marca y no significa necesariamente que la empresa no haya tenido éxito.\r\n\r\nPero para que veas de dónde nace todo este error de los que acusan al placer y alaban al dolor, abriré todo el asunto, \r\ny explicaré las mismas cosas que fueron dichas por ese descubridor de la verdad y, por así decirlo, \r\nel arquitecto de una vida feliz.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Investigación y estrategia\"/>\r\n\r\nSiempre listos para superar los límites, especialmente cuando se trata de nuestra propia plataforma, \r\nOjo analítico crea un sitio que sea visualmente atractivo y también optimizado para el máximo rendimiento. \r\nTambién refleja perfectamente el viaje para ayudar a contar una historia para aumentar su comprensión e impulsar la acción. Para crear un sitio que sea visualmente atractivo para el máximo rendimiento.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Desarrollo de Marca\"/>\r\n  <Service title=\"Diseño UX/UI\"/>\r\n  <Service title=\"Desarrollo Front-end\"/>\r\n  <Service title=\"Redacción\"/>\r\n  <Service title=\"Desarrollo Shopify\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Marco de Trabajo\"/>\r\n\r\nAl igual que otros pseudo-elementos y selectores de pseudo-clases, :not() se puede encadenar con otras pseudo-clases y pseudo-elementos. \r\nPor ejemplo, lo siguiente agregará una palabra “¡Nuevo!” a los elementos de la lista que no tienen un nombre de clase .old, usando el pseudo-elemento ::after:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    }
+  ]
+}

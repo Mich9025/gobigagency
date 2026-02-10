@@ -1,0 +1,1146 @@
+{
+  "clients": {
+    "brands": [
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-19.png",
+          "light": "/assets/imgs/brand/img-s-19.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-20.png",
+          "light": "/assets/imgs/brand/img-s-20.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-21.png",
+          "light": "/assets/imgs/brand/img-s-21.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-22.png",
+          "light": "/assets/imgs/brand/img-s-22.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-23.png",
+          "light": "/assets/imgs/brand/img-s-23.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-24.png",
+          "light": "/assets/imgs/brand/img-s-24.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-19.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-20.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-21.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-22.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-23.png"
+        }
+      },
+      {
+        "image": {
+          "dark": "/assets/imgs/brand/img-s-24.png"
+        }
+      }
+    ]
+  },
+  "about": {
+    "title": "Tenemos ideas brillantes que impulsan el {crecimiento digital} de tu marca!",
+    "subTitle": "01. Quiénes somos",
+    "description": "La creatividad nos mueve, entendemos el valor de la dedicación y creemos en el crecimiento en conjunto. Ayudamos a nuestros clientes a generar contenido atractivo y monetizar sus esfuerzos a través de estrategias innovadoras.",
+    "action_btn": {
+      "enable": true,
+      "label": "Conoce más <br> sobre nosotros",
+      "link": "/about-bold"
+    },
+    "shape1": {
+      "light": "/assets/imgs/shape/img-s-66.png",
+      "dark": "/assets/imgs/shape/img-s-66-light.png"
+    },
+    "clients_thumb": {
+      "light": "/assets/imgs/client/img-s-4.png",
+      "dark": "/assets/imgs/client/img-s-4-dark.png"
+    },
+    "total_clients": "150+",
+    "gallery": [
+      "/assets/imgs/gallery/img-s-70.jpg",
+      "/assets/imgs/gallery/img-s-71.jpg"
+    ],
+    "icon": {
+      "light": "/assets/imgs/shape/img-s-67.png",
+      "dark": "/assets/imgs/shape/img-s-67-light.png"
+    },
+    "service_box_text": "Haz que tu negocio prospere con nuestro gran equipo de expertos. Transformamos ideas en experiencias digitales exitosas.",
+    "meta": {
+      "meta_title": "Acerca de GoBig Agency",
+      "meta_description": "Conoce a GoBig Agency, tu aliado integral para construir el ecosistema digital de tu marca con profesionalismo y creatividad."
+    }
+  },
+  "feature": {
+    "title": "toma el control dirigiendo tu producto digital",
+    "img_icon": "/assets/imgs/shape/img-s-68.png",
+    "description": "Nuestra capacidad para combinar experiencia y pensamiento estratégico es lo que nos impulsa como equipo creativo.",
+    "features": [
+      {
+        "title": "Equipo <br> Dedicado",
+        "description": "Encuentra los mejores profesionales liderados por expertos senior experimentados y altamente capacitados.",
+        "icon": "/assets/imgs/icon/icon-s-24.png"
+      },
+      {
+        "title": "Equipo de <br> Producto",
+        "description": "Obtén un servicio de primera clase de nuestro experimentado equipo de diseñadores y gestores de producto.",
+        "icon": "/assets/imgs/icon/icon-s-25.png"
+      },
+      {
+        "title": "Equipo <br> Integral",
+        "description": "Contrata un escuadrón élite de profesionales líderes para convertir tu idea en un producto listo para el mercado.",
+        "icon": "/assets/imgs/icon/icon-s-26.png"
+      }
+    ]
+  },
+  "skill": {
+    "title": "Somos un equipo de creativos emocionados por ideas únicas",
+    "description": "Nuestra experiencia nos permite crear soluciones digitales que destacan.",
+    "skills": [
+      {
+        "title": "Desarrollo Web",
+        "description": "Creamos sitios web modernos, responsivos y optimizados que impulsan el crecimiento de tu negocio y mejoran la experiencia del usuario.",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-1.png",
+          "dark": "/assets/imgs/icon/icon-s-1-light.png"
+        },
+        "img_small": "/assets/imgs/shape/img-s-40.png",
+        "img_main": "/assets/imgs/works/img-s-11j.jpg"
+      },
+      {
+        "title": "Marketing Digital",
+        "description": "Desarrollamos estrategias de marketing digital integrales que maximizan el ROI y generan conversiones reales para tu marca.",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-2.png",
+          "dark": "/assets/imgs/icon/icon-s-2-light.png"
+        },
+        "img_small": "/assets/imgs/shape/img-s-40-light.png",
+        "img_main": "/assets/imgs/works/img-s-10.jpg"
+      },
+      {
+        "title": "Diseño UI/UX",
+        "description": "Diseñamos interfaces intuitivas y experiencias de usuario excepcionales que conectan emocionalmente con tu audiencia.",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-3.png",
+          "dark": "/assets/imgs/icon/icon-s-3-light.png"
+        },
+        "img_small": "/assets/imgs/shape/img-s-40.png",
+        "img_main": "/assets/imgs/works/img-s-12.jpg"
+      },
+      {
+        "title": "Fotografía y Video",
+        "description": "Producimos contenido visual de alta calidad que cuenta la historia de tu marca y genera engagement en todas las plataformas.",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-1.png",
+          "dark": "/assets/imgs/icon/icon-s-1-light.png"
+        },
+        "img_small": "/assets/imgs/shape/img-s-40-light.png",
+        "img_main": "/assets/imgs/works/img-s-13.jpg"
+      }
+    ],
+    "meta": {
+      "meta_title": "Nuestras Especialidades - GoBig Agency",
+      "meta_description": "Conoce nuestras especialidades en desarrollo web, marketing digital, diseño UI/UX, fotografía y video."
+    }
+  },
+  "enterprise": {
+    "title": "Trabajamos con las tecnologias en tendencia",
+    "description": "Somos un equipo de creativos emocionados por ideas únicas y ayudamos a empresas a crear una identidad increíble mediante el desarrollo de UI/UX de primera clase.",
+    "technologies": [
+      {
+        "title": "WordPress",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-31.png",
+          "dark": "/assets/imgs/icon/icon-s-31-light.png"
+        }
+      },
+      {
+        "title": "React.js",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-32.png",
+          "dark": "/assets/imgs/icon/icon-s-32-light.png"
+        }
+      },
+      {
+        "title": "Node.js",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-33.png",
+          "dark": "/assets/imgs/icon/icon-s-33-light.png"
+        }
+      },
+      {
+        "title": "Flutter",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-34.png",
+          "dark": "/assets/imgs/icon/icon-s-34-light.png"
+        }
+      }
+    ],
+    "meta": {
+      "meta_title": "Tecnologías - GoBig Agency",
+      "meta_description": "Conoce las tecnologías y herramientas que utilizamos para crear experiencias digitales excepcionales."
+    }
+  },
+  "works": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "Mastartery-L",
+        "image": "/assets/imgs/project/img-s-8.jpg",
+        "icon": "/assets/imgs/shape/img-s-69.png",
+        "date": "02 Nov 2024",
+        "tags": [
+          "Design - 2019"
+        ],
+        "client": "Art Direction, Web Design, Production",
+        "action_btn": {
+          "enable": true,
+          "label": "View Website",
+          "link": "https://wealcoder.com/"
+        },
+        "ctaText": "Let’s Talk with us",
+        "ctaMail": "hello@example.com",
+        "meta": {
+          "meta_title": "Mastartery-L",
+          "meta_description": "Mastartery-L description"
+        }
+      },
+      "slug": "mastartery-l",
+      "content": "\r\n<Statement title=\"Problem Statement\" description=\"We drive into your business dream in order bring to the surface underlying value that your brand create for its customers.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Results & Metrics\r\nWe deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once \r\nbuild, ship scale your vision most efficient. Visual hierarchy is the principle of arranging\r\nelements to show their order of importance. information easily. By laying out elements logically\r\nand strategically, designers influence users' perceptions and guide them to desired actions. Users\r\nnotice larger elements more easily can convert.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Cost per lead each month on non-branded keywords.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total leads generated each month\"/>\r\n<ResultBox value=\"66%\" title=\"CPercentage of leads from mobile devices.\"/>\r\n<ResultBox value=\"143%\" title=\"Increase in overall revenue since switching to Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Mastartery-M",
+        "image": "/assets/imgs/project/img-s-11.jpg",
+        "icon": "/assets/imgs/shape/img-s-69.png",
+        "date": "06 Nov 2024",
+        "tags": [
+          "Design - 2020"
+        ],
+        "ctaText": "Let’s Talk with us",
+        "ctaMail": "hello@example.com",
+        "client": "Art Direction, Web Design, Production",
+        "action_btn": {
+          "enable": true,
+          "label": "View Website",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Mastartery-M",
+          "meta_description": "Mastartery-M description"
+        }
+      },
+      "slug": "mastartery-m",
+      "content": "\r\n<Statement title=\"Problem Statement\" description=\"We drive into your business dream in order bring to the surface underlying value that your brand create for its customers.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Results & Metrics\r\nWe deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once \r\nbuild, ship scale your vision most efficient. Visual hierarchy is the principle of arranging\r\nelements to show their order of importance. information easily. By laying out elements logically\r\nand strategically, designers influence users' perceptions and guide them to desired actions. Users\r\nnotice larger elements more easily can convert.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Cost per lead each month on non-branded keywords.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total leads generated each month\"/>\r\n<ResultBox value=\"66%\" title=\"CPercentage of leads from mobile devices.\"/>\r\n<ResultBox value=\"143%\" title=\"Increase in overall revenue since switching to Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Mastartery-R",
+        "image": "/assets/imgs/project/img-s-9.jpg",
+        "icon": "/assets/imgs/shape/img-s-69.png",
+        "date": "06 Nov 2024",
+        "tags": [
+          "Design - 2021"
+        ],
+        "ctaText": "Let’s Talk with us",
+        "ctaMail": "hello@example.com",
+        "client": "Art Direction, Web Design, Production",
+        "action_btn": {
+          "enable": true,
+          "label": "View Website",
+          "link": "https://wealcoder.com/"
+        },
+        "meta": {
+          "meta_title": "Mastartery-R",
+          "meta_description": "Mastartery-R description"
+        }
+      },
+      "slug": "mastartery-r",
+      "content": "\r\n<Statement title=\"Problem Statement\" description=\"We drive into your business dream in order bring to the surface underlying value that your brand create for its customers.\"/>\r\n<img className=\"w-full\" alt=\"Result-image\" src=\"/assets/imgs/gallery/img-s-100.jpg\" /> \r\n### Results & Metrics\r\nWe deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once \r\nbuild, ship scale your vision most efficient. Visual hierarchy is the principle of arranging\r\nelements to show their order of importance. information easily. By laying out elements logically\r\nand strategically, designers influence users' perceptions and guide them to desired actions. Users\r\nnotice larger elements more easily can convert.\r\n\r\n<div className=\"font-primary mt-[33px]  grid grid-cols-1 md:grid-cols-4\">\r\n<ResultBox value=\"$25-$30\" title=\"Cost per lead each month on non-branded keywords.\"/>\r\n<ResultBox value=\"$120-$160\" title=\"Total leads generated each month\"/>\r\n<ResultBox value=\"66%\" title=\"CPercentage of leads from mobile devices.\"/>\r\n<ResultBox value=\"143%\" title=\"Increase in overall revenue since switching to Coozmoo\"/>\r\n</div>\r\n\r\n<div className=\"pt-[60px] xl:pt-[130px] grid grid-cols-2 gap-[10px] lg:gap-[30px]\">\r\n  <img src=\"/assets/imgs/gallery/img-s-101.jpg\" className=\"object-cover w-full h-full\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-102.jpg\" className=\"object-cover w-full h-full\"/>\r\n</div>\r\n<img src=\"/assets/imgs/gallery/img-s-103.jpg\" className=\"object-cover w-full h-full mt-[30px]\"/>"
+    }
+  ],
+  "service": {
+    "title": "ofrecemos servicios premium de GoBig Agency",
+    "img_icon": "/assets/imgs/shape/img-s-68.png",
+    "description": "Nuestra capacidad para combinar experiencia y pensamiento estratégico es lo que nos impulsa como equipo creativo especializado en marketing digital y desarrollo web.",
+    "meta": {
+      "meta_title": "Servicios Web - GoBig Agency",
+      "meta_description": "Servicios premium de marketing digital, desarrollo web, diseño, fotografía y video para impulsar tu negocio."
+    }
+  },
+  "services": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "Project <br> Management",
+        "bg_video": "",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-36.png",
+          "dark": "/assets/imgs/icon/icon-s-36-light.png"
+        },
+        "image": "/assets/imgs/gallery/img-s-114.jpg",
+        "description": "Creative Design team on demand that can design, build, ship and scale your real has development agency.",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "User Interface",
+          "User Experience",
+          "Design System",
+          "Wireframe",
+          "Prototype",
+          "Website & Mobile App",
+          "IOS + Android"
+        ],
+        "frameworks": [
+          "WordPress",
+          "Fluter Framework",
+          "JavaScript"
+        ],
+        "faq_title": "We replace unreliable & expensive agency.",
+        "faq_description": "Receive your design within a few business day, and be updated on the process. Everything you need for a digitally driven brand. defined proposition. have on conceptual realization. Logo, type, look, feel, tone, movement, content - we've got it covered.",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Project Management",
+          "meta_description": "Project Management description"
+        }
+      },
+      "slug": "project-management",
+      "content": "\r\n<div className=\" grid gap-[15px] md:gap-[30px] grid-cols-2\">\r\n  <img src=\"/assets/imgs/gallery/img-s-115.jpg\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-116.jpg\"/>\r\n</div>\r\n\r\n<div className=\"grid gap-y-[10px] gap-x-[60px] lg:grid-cols-[1fr,410px] py-[60px] lg:py-[120px] 2xl:py-[150px]\">\r\n  ### Our standard design thinking process\r\n  Receive your design within a few business day, and be updated on the process. everything is you need for a digitally driven brand.\r\n  <div className=\"mt-[38px] xl:mt-[48px] grid gap-y-[50px] gap-x-[30px] xl:gap-x-[65px] sm:grid-cols-2 lg:grid-cols-4 col-span-full\">\r\n    <WebServiceProcess title=\"User <br> Research\"\r\n      serial_no=\"01\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-48.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-48-light.png\"\r\n      }}\r\n      feature_list={[\"WordPress\", \"Front End Development\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Define <br> Problems\"\r\n      serial_no=\"02\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-49.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-49-light.png\"\r\n      }}\r\n      feature_list={[\"API Development\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Design and <br> Prototype \"\r\n      serial_no=\"03\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-50.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-50-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"Front End Development\", \"WordPress\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Evaluation &<br>Testing\"\r\n      serial_no=\"04\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-51.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-51-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"WordPress\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n  </div>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Product <br> Management",
+        "bg_video": "",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-37.png",
+          "dark": "/assets/imgs/icon/icon-s-37-light.png"
+        },
+        "image": "/assets/imgs/gallery/img-s-114.jpg",
+        "description": "Creative Design team on demand that can design, build, ship and scale your real has development agency.",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "User Interface",
+          "User Experience",
+          "Design System",
+          "Wireframe",
+          "Prototype",
+          "Website & Mobile App",
+          "IOS + Android"
+        ],
+        "frameworks": [
+          "WordPress",
+          "Fluter Framework",
+          "JavaScript"
+        ],
+        "faq_title": "We replace unreliable & expensive agency.",
+        "faq_description": "Receive your design within a few business day, and be updated on the process. Everything you need for a digitally driven brand. defined proposition. have on conceptual realization. Logo, type, look, feel, tone, movement, content - we've got it covered.",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Product Management",
+          "meta_description": "Product Management description"
+        }
+      },
+      "slug": "product-management",
+      "content": "\r\n<div className=\" grid gap-[15px] md:gap-[30px] grid-cols-2\">\r\n  <img src=\"/assets/imgs/gallery/img-s-115.jpg\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-116.jpg\"/>\r\n</div>\r\n\r\n<div className=\"grid gap-y-[10px] gap-x-[60px] lg:grid-cols-[1fr,410px] py-[60px] lg:py-[120px] 2xl:py-[150px]\">\r\n  ### Our standard design thinking process\r\n  Receive your design within a few business day, and be updated on the process. everything is you need for a digitally driven brand.\r\n  <div className=\"mt-[38px] xl:mt-[48px] grid gap-y-[50px] gap-x-[30px] xl:gap-x-[65px] sm:grid-cols-2 lg:grid-cols-4 col-span-full\">\r\n    <WebServiceProcess title=\"User <br> Research\"\r\n      serial_no=\"01\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-48.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-48-light.png\"\r\n      }}\r\n      feature_list={[\"WordPress\", \"Front End Development\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Define <br> Problems\"\r\n      serial_no=\"02\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-49.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-49-light.png\"\r\n      }}\r\n      feature_list={[\"API Development\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Design and <br> Prototype \"\r\n      serial_no=\"03\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-50.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-50-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"Front End Development\", \"WordPress\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Evaluation &<br>Testing\"\r\n      serial_no=\"04\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-51.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-51-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"WordPress\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n  </div>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Web <br> Design",
+        "bg_video": "",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-38.png",
+          "dark": "/assets/imgs/icon/icon-s-38-light.png"
+        },
+        "image": "/assets/imgs/gallery/img-s-114.jpg",
+        "description": "Creative Design team on demand that can design, build, ship and scale your real has development agency.",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "User Interface",
+          "User Experience",
+          "Design System",
+          "Wireframe",
+          "Prototype",
+          "Website & Mobile App",
+          "IOS + Android"
+        ],
+        "frameworks": [
+          "WordPress",
+          "Fluter Framework",
+          "JavaScript"
+        ],
+        "faq_title": "We replace unreliable & expensive agency.",
+        "faq_description": "Receive your design within a few business day, and be updated on the process. Everything you need for a digitally driven brand. defined proposition. have on conceptual realization. Logo, type, look, feel, tone, movement, content - we've got it covered.",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Web Design",
+          "meta_description": "Web Design description"
+        }
+      },
+      "slug": "web-design",
+      "content": "\r\n<div className=\" grid gap-[15px] md:gap-[30px] grid-cols-2\">\r\n  <img src=\"/assets/imgs/gallery/img-s-115.jpg\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-116.jpg\"/>\r\n</div>\r\n\r\n<div className=\"grid gap-y-[10px] gap-x-[60px] lg:grid-cols-[1fr,410px] py-[60px] lg:py-[120px] 2xl:py-[150px]\">\r\n  ### Our standard design thinking process\r\n  Receive your design within a few business day, and be updated on the process. everything is you need for a digitally driven brand.\r\n  <div className=\"mt-[38px] xl:mt-[48px] grid gap-y-[50px] gap-x-[30px] xl:gap-x-[65px] sm:grid-cols-2 lg:grid-cols-4 col-span-full\">\r\n    <WebServiceProcess title=\"User <br> Research\"\r\n      serial_no=\"01\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-48.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-48-light.png\"\r\n      }}\r\n      feature_list={[\"WordPress\", \"Front End Development\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Define <br> Problems\"\r\n      serial_no=\"02\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-49.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-49-light.png\"\r\n      }}\r\n      feature_list={[\"API Development\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Design and <br> Prototype \"\r\n      serial_no=\"03\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-50.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-50-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"Front End Development\", \"WordPress\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Evaluation &<br>Testing\"\r\n      serial_no=\"04\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-51.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-51-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"WordPress\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n  </div>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 4,
+        "title": "Backend <br> Development",
+        "bg_video": "",
+        "icon": {
+          "light": "/assets/imgs/icon/icon-s-39.png",
+          "dark": "/assets/imgs/icon/icon-s-39-light.png"
+        },
+        "image": "/assets/imgs/gallery/img-s-114.jpg",
+        "description": "Creative Design team on demand that can design, build, ship and scale your real has development agency.",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "User Interface",
+          "User Experience",
+          "Design System",
+          "Wireframe",
+          "Prototype",
+          "Website & Mobile App",
+          "IOS + Android"
+        ],
+        "frameworks": [
+          "WordPress",
+          "Fluter Framework",
+          "JavaScript"
+        ],
+        "faq_title": "We replace unreliable & expensive agency.",
+        "faq_description": "Receive your design within a few business day, and be updated on the process. Everything you need for a digitally driven brand. defined proposition. have on conceptual realization. Logo, type, look, feel, tone, movement, content - we've got it covered.",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Backend Development",
+          "meta_description": "Backend Development description"
+        }
+      },
+      "slug": "backend-development",
+      "content": "\r\n<div className=\" grid gap-[15px] md:gap-[30px] grid-cols-2\">\r\n  <img src=\"/assets/imgs/gallery/img-s-115.jpg\"/>\r\n  <img src=\"/assets/imgs/gallery/img-s-116.jpg\"/>\r\n</div>\r\n\r\n<div className=\"grid gap-y-[10px] gap-x-[60px] lg:grid-cols-[1fr,410px] py-[60px] lg:py-[120px] 2xl:py-[150px]\">\r\n  ### Our standard design thinking process\r\n  Receive your design within a few business day, and be updated on the process. everything is you need for a digitally driven brand.\r\n  <div className=\"mt-[38px] xl:mt-[48px] grid gap-y-[50px] gap-x-[30px] xl:gap-x-[65px] sm:grid-cols-2 lg:grid-cols-4 col-span-full\">\r\n    <WebServiceProcess title=\"User <br> Research\"\r\n      serial_no=\"01\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-48.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-48-light.png\"\r\n      }}\r\n      feature_list={[\"WordPress\", \"Front End Development\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Define <br> Problems\"\r\n      serial_no=\"02\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-49.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-49-light.png\"\r\n      }}\r\n      feature_list={[\"API Development\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Design and <br> Prototype \"\r\n      serial_no=\"03\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-50.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-50-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"Front End Development\", \"WordPress\", \"Fluter Framework\"]}\r\n    />\r\n\r\n    <WebServiceProcess title=\"Evaluation &<br>Testing\"\r\n      serial_no=\"04\"\r\n      icon={{\r\n        light: \"/assets/imgs/icon/icon-s-51.png\",\r\n        dark: \"/assets/imgs/icon/icon-s-51-light.png\"\r\n        \r\n      }}\r\n      feature_list={[\"WordPress\", \"Cloud Migration\", \"JavaScript\"]}\r\n    />\r\n  </div>\r\n</div>"
+    }
+  ],
+  "image": {
+    "image": "/assets/imgs/gallery/img-s-34.jpg"
+  },
+  "teamMembers": [
+    {
+      "data": {
+        "id": 1,
+        "name": "Kamal Abraham",
+        "post": "CEO, Alaska",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-1.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Kamal Abraham",
+          "meta_description": "Kamal Abraham description"
+        }
+      },
+      "slug": "kamal-abraham",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 2,
+        "name": "Selina Gomaze",
+        "post": "Jr. Executive",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-2.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Selina Gomaze",
+          "meta_description": "Selina Gomaze description"
+        }
+      },
+      "slug": "selina-gomaze",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 3,
+        "name": "Pedrik Vadra",
+        "post": "Logo Designer",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-3.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Pedrik Vadra",
+          "meta_description": "Pedrik Vadra description"
+        }
+      },
+      "slug": "pedrik-vadra",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 4,
+        "name": "Thomas Ribbon",
+        "post": "Sr. Designer",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-4.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Thomas Ribbon",
+          "meta_description": "Selina Gomaze description"
+        }
+      },
+      "slug": "thomas-ribbon",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 6,
+        "name": "Jonathon Deo",
+        "social": "Linkedin",
+        "social_link": "#",
+        "post": "Designer",
+        "avatar": "/assets/imgs/team/img-s-32.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Jonathon Deo",
+          "meta_description": "Jonathon Deo description"
+        }
+      },
+      "slug": "jonathon-deo",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 7,
+        "name": "Angel D. Mariya",
+        "post": "Jr. Designer",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-33.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Angel D. Mariya",
+          "meta_description": "Angel D. Mariya description"
+        }
+      },
+      "slug": "angel-d-mariya",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 8,
+        "name": "Burak Özçivit",
+        "post": "Jr. Designer",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-30.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Burak Özçivit",
+          "meta_description": "Burak Özçivit description"
+        }
+      },
+      "slug": "burak-ozçivit",
+      "content": ""
+    },
+    {
+      "data": {
+        "id": 10,
+        "name": "Oliver Kugar",
+        "post": "Jr. Designer",
+        "social": "Linkedin",
+        "social_link": "#",
+        "avatar": "/assets/imgs/team/img-s-31.jpg",
+        "image": "/assets/imgs/team/img-s-34.png",
+        "description": "Jassica Oliver is known for her ability to take a creative brief and run with it on digital design to long-format layouts, she blend's beautiful have intuitive with all while maintaining a can do zen attitude that keeps the whole statement on team centered.<br><br> When he's not building strong alliances with other creatives, project managers and stakeholders alike, you'll find him giving voice to client strategies with key compelling concept delightfully clever messaging.",
+        "portfolios": [
+          {
+            "title": "Behance",
+            "link": "https://www.behance.net/"
+          },
+          {
+            "title": "Dribble",
+            "link": "https://dribbble.com/"
+          },
+          {
+            "title": "Medium",
+            "link": "https://medium.com/"
+          }
+        ],
+        "socials": [
+          {
+            "name": "Fb",
+            "link": "https://www.facebook.com/"
+          },
+          {
+            "name": "Tw",
+            "link": "https://twitter.com/"
+          },
+          {
+            "name": "In",
+            "link": "https://www.instagram.com/"
+          },
+          {
+            "name": "Li",
+            "link": "https://www.behance.net/"
+          }
+        ],
+        "meta": {
+          "meta_title": "Oliver Kugar",
+          "meta_description": "Oliver Kugar description"
+        }
+      },
+      "slug": "oliver-kugar",
+      "content": ""
+    }
+  ],
+  "team": {
+    "title": "¡Conoce al talentoso equipo de GoBig Agency!",
+    "description": "Nuestra capacidad para combinar experiencia y pensamiento estratégico es lo que nos impulsa como equipo creativo comprometido con el éxito de nuestros clientes."
+  },
+  "faqsData": {
+    "title": "preguntas frecuentes",
+    "description": "Encuentra respuestas a las preguntas más comunes sobre nuestros servicios de marketing digital y desarrollo web.",
+    "faqs": [
+      {
+        "question": "¿Qué servicios de marketing digital ofrecen?",
+        "answer": "En GoBig Agency ofrecemos una gama completa de servicios de marketing digital incluyendo estrategias de redes sociales, optimización de conversiones, análisis de datos, campañas publicitarias digitales y creación de contenido atractivo para maximizar el ROI de nuestros clientes."
+      },
+      {
+        "question": "¿Cuánto tiempo toma desarrollar un sitio web?",
+        "answer": "El tiempo de desarrollo depende de la complejidad del proyecto. Un sitio web básico puede tomar entre 2-4 semanas, mientras que proyectos más complejos con funcionalidades avanzadas pueden requerir 6-12 semanas. Siempre proporcionamos un cronograma detallado antes de comenzar."
+      },
+      {
+        "question": "¿Ofrecen servicios de diseño gráfico y branding?",
+        "answer": "Sí, nuestro equipo creativo se especializa en diseño gráfico, desarrollo de identidad visual, branding completo y materiales promocionales. Creamos diseños que capturan la esencia de tu marca y conectan con tu audiencia objetivo."
+      },
+      {
+        "question": "¿Qué incluyen sus servicios de fotografía y video?",
+        "answer": "Ofrecemos servicios completos de producción audiovisual incluyendo fotografía comercial, videos promocionales, contenido para redes sociales, fotografía de productos y eventos. Nuestro enfoque se centra en crear contenido visual que impulse el engagement y las conversiones."
+      },
+      {
+        "question": "¿Cómo miden el éxito de las campañas de marketing?",
+        "answer": "Utilizamos herramientas avanzadas de análisis de datos para medir KPIs específicos como ROI, tasa de conversión, engagement, tráfico web y generación de leads. Proporcionamos reportes detallados y transparentes sobre el rendimiento de cada campaña."
+      },
+      {
+        "question": "¿Trabajan con empresas de todos los tamaños?",
+        "answer": "Absolutamente. Trabajamos con startups, PYMES y grandes empresas, adaptando nuestras estrategias y servicios a las necesidades específicas y presupuesto de cada cliente. Nuestro enfoque es escalable y personalizado para cada proyecto."
+      }
+    ],
+    "meta": {
+      "meta_title": "Preguntas Frecuentes - GoBig Agency",
+      "meta_description": "Respuestas a las preguntas más comunes sobre nuestros servicios de marketing digital, desarrollo web, diseño, fotografía y video."
+    }
+  },
+  "contactBanner": {
+    "contactTitle": "Comencemos tu experiencia digital con GoBig Agency",
+    "btn_text": "Hablemos",
+    "shape": "/assets/imgs/shape/img-s-70.png"
+  },
+  "testimonial": {
+    "title": "Testimonios de clientes satisfechos",
+    "description": "La creatividad nos mueve, entendemos el valor de la dedicación y creemos en el crecimiento en conjunto con nuestros clientes.",
+    "action_btn": {
+      "label": "Conoce más<br> sobre nosotros",
+      "link": "/about-bold"
+    },
+    "testimonial_list": [
+      {
+        "icon": "/assets/imgs/icon/quote-9.png",
+        "rating": "5.0",
+        "star_icon": "/assets/imgs/icon/star-5.png",
+        "text": "Trabajar con la agencia GoBig es como ampliar la empresa, su amabilidad y empatía los vuelven parte del equipo de trabajo desde el inicio. Saben escuchar, son receptivos, creativos, comprometidos, súper cumplidos y responsables.",
+        "author": {
+          "name": "Michelle García",
+          "designation": "Directora de Marketing",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "icon": "/assets/imgs/icon/quote-9.png",
+        "rating": "4.9",
+        "star_icon": "/assets/imgs/icon/star-5.png",
+        "text": "Con la Agencia GoBig encontré el perfecto aliado integral para construir el ecosistema digital de las marcas. El profesionalismo, compromiso y creatividad de todo su equipo es destacable y sienten verdaderamente las marcas como propias.",
+        "author": {
+          "name": "Carlos Mendoza",
+          "designation": "CEO SOFA Events",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      },
+      {
+        "icon": "/assets/imgs/icon/quote-9.png",
+        "rating": "4.8",
+        "star_icon": "/assets/imgs/icon/star-5.png",
+        "text": "GoBig, con su filosofía creativa, propositiva y proactiva, logró rápidamente entender y sumergirse en el ADN de nuestra marca, proyectando cada acción de manera innovadora en redes sociales.",
+        "author": {
+          "name": "Ana Rodríguez",
+          "designation": "Gerente de Marca",
+          "avatar": "/assets/imgs/client/img-s-1.jpg"
+        }
+      }
+    ]
+  },
+  "blog": {
+    "title": "insights y tendencias digitales",
+    "description": "Nuestra capacidad para combinar experiencia y pensamiento estratégico es lo que nos impulsa como equipo creativo.",
+    "action_btn": {
+      "enable": true,
+      "label": "Ver todos los artículos",
+      "link": "/blog"
+    }
+  },
+  "blogs": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "Arolax the quest exceptional talent our team",
+        "short_description": "We lead by the design philosophy that every deal only visually...",
+        "author_name": "Oliver Kugar",
+        "image": "/assets/imgs/blog/img-s-18.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-12.jpg",
+        "tags": [
+          {
+            "name": "Jquery",
+            "link": "/"
+          },
+          {
+            "name": "ajax",
+            "link": "/"
+          }
+        ],
+        "published_date": "12 dec 2024",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "Arolax the quest exceptional talent our team",
+          "meta_description": "Arolax the quest exceptional talent our team description"
+        }
+      },
+      "slug": "arolax-the-quest-exceptional-talent-our-team",
+      "content": "<Quote text=\"Comfortable full leather lining eye-catching unique detail to the toe low 'cut-away' sides clean and sleek harmony.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nWe love to bring designs to life as a developer, and I aim to do this using whatever front end tools aren't necessary. \r\nmy preferred tools are more moderns JavaScript libraries like React.js but I like use whatever best for the websites needs. \r\nThere are several reasons why a business would consider a rebrand and it doesn't necessarily mean the business has been unsuccessful.\r\n\r\nBut in order that you may see whence all this born error of those who accuse pleasure and praise pain will open the whole matter, \r\nand explain the very things which were said by that discoverer of truth and, as it's were, \r\nthe architect of a happy life.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Research & strategy\"/>\r\n\r\nAlways ready to push the boundaries, especially when it comes to our own platform, \r\nOur analytical eye create a site that was visually engaging and also optimised for maximum performance. \r\nIt also perfectly reflects the journey to help it tell a story to increase its understanding and drive action. To create a site that was visually engaging for maximum performance.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Brand Development\"/>\r\n  <Service title=\"UX/UI Design\"/>\r\n  <Service title=\"Front-end Development\"/>\r\n  <Service title=\"Copywriting\"/>\r\n  <Service title=\"Shopify Development\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"WorkFrame\"/>\r\n\r\nJust like other pseudo-elements and pseudo-class selectors, :not() can be chained with other pseudon classes and pseudo-elements. \r\nFor example, the following will add a “New!” word to list items that do not have a .old class name, using the ::after pseudo-element:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Arolax selected 32+ best web agency and development tool",
+        "short_description": "We lead by the design philosophy that every deal only visually...",
+        "author_name": "Tuya Terekh",
+        "image": "/assets/imgs/blog/img-s-18.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-13.jpg",
+        "tags": [
+          {
+            "name": "Jquery",
+            "link": "/"
+          },
+          {
+            "name": "ajax",
+            "link": "/"
+          }
+        ],
+        "published_date": "11 nov 2024",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "Arolax selected 32+ best web agency and development tool",
+          "meta_description": "Arolax selected 32+ best web agency and development tooldescription"
+        }
+      },
+      "slug": "arolax-selected-32-best-web-agency-and-development-tool",
+      "content": "<Quote text=\"Comfortable full leather lining eye-catching unique detail to the toe low 'cut-away' sides clean and sleek harmony.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nWe love to bring designs to life as a developer, and I aim to do this using whatever front end tools aren't necessary. \r\nmy preferred tools are more moderns JavaScript libraries like React.js but I like use whatever best for the websites needs. \r\nThere are several reasons why a business would consider a rebrand and it doesn't necessarily mean the business has been unsuccessful.\r\n\r\nBut in order that you may see whence all this born error of those who accuse pleasure and praise pain will open the whole matter, \r\nand explain the very things which were said by that discoverer of truth and, as it's were, \r\nthe architect of a happy life.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Research & strategy\"/>\r\n\r\nAlways ready to push the boundaries, especially when it comes to our own platform, \r\nOur analytical eye create a site that was visually engaging and also optimised for maximum performance. \r\nIt also perfectly reflects the journey to help it tell a story to increase its understanding and drive action. To create a site that was visually engaging for maximum performance.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Brand Development\"/>\r\n  <Service title=\"UX/UI Design\"/>\r\n  <Service title=\"Front-end Development\"/>\r\n  <Service title=\"Copywriting\"/>\r\n  <Service title=\"Shopify Development\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"WorkFrame\"/>\r\n\r\nJust like other pseudo-elements and pseudo-class selectors, :not() can be chained with other pseudon classes and pseudo-elements. \r\nFor example, the following will add a “New!” word to list items that do not have a .old class name, using the ::after pseudo-element:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "arolax development tech agency we talent meet opportunity",
+        "short_description": "We lead by the design philosophy that every deal only visually...",
+        "author_name": "Oliver Kugar",
+        "image": "/assets/imgs/blog/img-s-18.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-14.jpg",
+        "tags": [
+          {
+            "name": "Jquery",
+            "link": "/"
+          },
+          {
+            "name": "ajax",
+            "link": "/"
+          }
+        ],
+        "published_date": "13 Jan 2024",
+        "likes": 20511,
+        "comments": 320,
+        "shares": 14,
+        "views": 247,
+        "meta": {
+          "meta_title": "arolax development tech agency we talent meet opportunity",
+          "meta_description": "arolax development tech agency we talent meet opportunity description"
+        }
+      },
+      "slug": "arolax-development-tech-agency-we-talent-meet-opportunity",
+      "content": "<Quote text=\"Comfortable full leather lining eye-catching unique detail to the toe low 'cut-away' sides clean and sleek harmony.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nWe love to bring designs to life as a developer, and I aim to do this using whatever front end tools aren't necessary. \r\nmy preferred tools are more moderns JavaScript libraries like React.js but I like use whatever best for the websites needs. \r\nThere are several reasons why a business would consider a rebrand and it doesn't necessarily mean the business has been unsuccessful.\r\n\r\nBut in order that you may see whence all this born error of those who accuse pleasure and praise pain will open the whole matter, \r\nand explain the very things which were said by that discoverer of truth and, as it's were, \r\nthe architect of a happy life.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Research & strategy\"/>\r\n\r\nAlways ready to push the boundaries, especially when it comes to our own platform, \r\nOur analytical eye create a site that was visually engaging and also optimised for maximum performance. \r\nIt also perfectly reflects the journey to help it tell a story to increase its understanding and drive action. To create a site that was visually engaging for maximum performance.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Brand Development\"/>\r\n  <Service title=\"UX/UI Design\"/>\r\n  <Service title=\"Front-end Development\"/>\r\n  <Service title=\"Copywriting\"/>\r\n  <Service title=\"Shopify Development\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"WorkFrame\"/>\r\n\r\nJust like other pseudo-elements and pseudo-class selectors, :not() can be chained with other pseudon classes and pseudo-elements. \r\nFor example, the following will add a “New!” word to list items that do not have a .old class name, using the ::after pseudo-element:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    }
+  ]
+}

@@ -17,7 +17,7 @@ const AiSectionTitle = ({
       {heading1 ? (
         <h1
           className={cn(
-            "text-[38px] md:text-[46px] lg:text-60px xl:text-[80px] 2xl:text-[100px] max-w-[550px] xl:max-w-[730px] 2xl:max-w-[910px] leading-[0.95] mt-[-10px]",
+            "text-[38px] md:text-[46px] lg:text-60px xl:text-[80px] 2xl:text-[90px] max-w-[550px] xl:max-w-[730px] 2xl:max-w-[910px] leading-[0.95] mt-[-10px]",
             animation,
             className
           )}

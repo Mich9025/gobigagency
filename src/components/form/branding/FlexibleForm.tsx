@@ -46,7 +46,7 @@ const FlexibleForm = ({ btnText }: Props) => {
               <FormItem>
                 <FormControl>
                   <Input
-                    placeholder="Name*"
+                    placeholder="Nombre*"
                     {...field}
                     className="blog-form-input"
                   />
@@ -78,7 +78,7 @@ const FlexibleForm = ({ btnText }: Props) => {
               <FormItem>
                 <FormControl>
                   <Input
-                    placeholder="Phone"
+                    placeholder="Teléfono"
                     {...field}
                     className="blog-form-input"
                   />
@@ -94,7 +94,7 @@ const FlexibleForm = ({ btnText }: Props) => {
               <FormItem>
                 <FormControl>
                   <Input
-                    placeholder="Subject*"
+                    placeholder="Asunto*"
                     {...field}
                     className="blog-form-input"
                   />
@@ -110,7 +110,7 @@ const FlexibleForm = ({ btnText }: Props) => {
               <FormItem className="md:col-span-2">
                 <FormControl>
                   <Input
-                    placeholder="Message*"
+                    placeholder="Mensaje*"
                     {...field}
                     className="blog-form-input"
                   />

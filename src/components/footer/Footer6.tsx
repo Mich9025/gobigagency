@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useRef } from "react";
-import siteConfig from "@/config/siteConfig.json";
+import footerData from "@/app/data/footer.json";
 import EmailInput2 from "@/components/elements/input/EmailInput2";
 import { useGSAP } from "@gsap/react";
 import hasFadeAnim from "@/lib/animation/hasFadeAnim";
@@ -12,27 +12,11 @@ import { cn } from "@/lib/utils";
 import ButtonSwap from "../elements/button/ButtonSwap";
 
 type Props = {
-  data: {
-    title: string;
-    subtitle: string;
-    locationData: {
-      id: number;
-      city: string;
-      address: string;
-    }[];
-
-    navData: {
-      id: number;
-      name: string;
-      path: string;
-    }[];
-  };
   TitleClassName?: string;
 };
 
-const Footer6 = ({ data, TitleClassName }: Props) => {
-  const { title, subtitle, locationData, navData } = data;
-  const { copyright } = siteConfig.footer_info;
+const Footer6 = ({ TitleClassName }: Props) => {
+  const { title, subtitle, locationData, navData, copyright } = footerData;
 
   const containerRef = useRef<HTMLDivElement>(null!);
 
@@ -75,7 +59,7 @@ const Footer6 = ({ data, TitleClassName }: Props) => {
                   arrowWidthHeight="w-[40px] h-[40px]"
                   textClassName="px-[22px] font-normal"
                   rootClassName="wc-swap-btn-sm"
-                  buttonText="Let’s contact"
+                  buttonText="Agendar una llamada"
                 />
               </div>
             </div>

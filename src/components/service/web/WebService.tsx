@@ -36,15 +36,15 @@ const WebService = ({ title, description, img_icon, services }: Props) => {
                 data-fade-offset="0"
                 data-delay="0.8"
               >
-                <ImageComponent src={img_icon} width={93} height={98} />
+                {/* <ImageComponent src={img_icon} width={93} height={98} /> */}
               </div>
               <WebSectionTItle
                 title={title}
-                className="has_text_move_anim max-w-[460px] lg:max-w-[460px] xl:max-w-[730px] lg:mx-auto "
+                className="has_text_move_anim text-center max-w-100 lg:max-w-100 xl:max-w-100 lg:mx-auto text-text-fixed"
               />
             </div>
             <div className="mt-[12px] xl:mt-[22px]">
-              <p className="has_fade_anim max-w-[460px] lg:ms-[430px] xl:ms-[520px] 2xl:ms-[580px] lg:max-w-[300px] ">
+              <p className="text has_fade_anim text-center max-w-100 lg:max-w-100 xl:max-w-100 lg:mx-auto text-text-fixed">
                 {description}
               </p>
             </div>

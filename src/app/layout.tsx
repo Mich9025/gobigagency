@@ -1,6 +1,12 @@
 import "../styles/globals.css";
 import "@/styles/main.css";
 import Provider from "@/provider";
+import ScrollSmootherComponent from "@/components/tools/ScrollSmoother";
+import ToolsComponent from "@/components/tools";
+import ScrollTop from "@/components/tools/ScrollTop";
+import AiHeader from "@/components/headers/AiHeader";
+import Footer6 from "@/components/footer/Footer6";
+import navigation from "@/config/navigation.json";
 
 export default function RootLayout({
   children,
@@ -22,8 +28,18 @@ export default function RootLayout({
       </head>
       <body suppressHydrationWarning={true}>
         <Provider>
-          <div className="has-smooth" id="has_smooth"></div>
-          {children}
+          <div className="teko-font root-layout" {...{ "theme-setting": "style-3" }}>
+             <ScrollSmootherComponent />
+             <ToolsComponent />
+             <ScrollTop />
+             <div id="smooth-wrapper">
+                <div id="smooth-content">
+                  <AiHeader />
+                  <div>{children}</div>
+                  <Footer6 />
+                </div>
+             </div>
+          </div>
         </Provider>
       </body>
     </html>

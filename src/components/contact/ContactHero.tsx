@@ -27,10 +27,10 @@ const ContactHero = ({ title, direct_contact, images }: Props) => {
   );
   return (
     <section className="inner-container" ref={containerRef}>
-      <div className="pt-[127px] xl:pt-[147px] 2xl:pt-[217px] pb-[30px] md:me-[calc((100vw-var(--container-max-widths))/-2-3px)]">
+      <div className="pt-[127px] xl:pt-[147px] 2xl:pt-[60px] pb-[30px] md:me-[calc((100vw-var(--container-max-widths))/-2-3px)]">
         <div className="grid gap-y-10 gap-x-[60px] lg:grid-cols-[1fr_580px] xl:grid-cols-[1fr_840px] 2xl:grid-cols-[1fr_960px]">
           <h1
-            className="inner-section-title large has_fade_anim 2xl:!text-[120px] !leading-[0.94]"
+            className="lg:pt-32 inner-section-title large has_fade_anim xl:!text-[90px] !leading-[0.94]"
             dangerouslySetInnerHTML={convertWithBr(title)}
           />
           <div className="grid gap-[15px] md:gap-[30px] items-end sm:grid-cols-[260px_1fr] xl:grid-cols-[300px_1fr]">

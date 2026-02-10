@@ -13,6 +13,9 @@ const AiHero = ({
   shape,
   client_img,
   customers,
+  customers_text_1,
+  customers_text_2,
+  customers_text_3,
   info,
   image,
   feature_text,
@@ -56,10 +59,10 @@ const AiHero = ({
                 data-fade-from="left"
               >
                 <span className="underline text-text underline-offset-4">
-                  We have {customers}
+                  {customers_text_1} {customers}
                 </span>{" "}
-                customers <br />
-                word-wide
+                {customers_text_2} <br />
+                {customers_text_3}
               </p>
             </div>
             <div

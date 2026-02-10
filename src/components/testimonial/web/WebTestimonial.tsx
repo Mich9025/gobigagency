@@ -68,7 +68,7 @@ const WebTestimonial = ({
   return (
     <section ref={containerRef}>
       <div className="inner-container">
-        <div className="py-[60px] xl:py-[140px] grid gap-y-10 gap-x-[60px] grid-cols-[auto] md:grid-cols-[auto,340px] justify-between">
+        <div className="py-[60px] xl:py-[140px] grid gap-y-10 gap-x-[60px] grid-cols-1 lg:grid-cols-[1fr,600px] xl:grid-cols-[1fr,700px] justify-between">
           <div>
             <WebSectionTItle title={title} className="max-w-[630px]" />
             <div className="mt-[19px]">
@@ -88,7 +88,7 @@ const WebTestimonial = ({
               </div>
             </div>
           </div>
-          <div className="max-w-[290px] sm:max-w-[340px]">
+          <div className="w-full">
             <Carousel
               className="w-full"
               dir="ltr"
@@ -98,9 +98,9 @@ const WebTestimonial = ({
               }}
               setApi={setApi}
             >
-              <CarouselContent>
+              <CarouselContent className="-ml-4">
                 {testimonial_list.map((item, index) => (
-                  <CarouselItem key={index} className="basis-full">
+                  <CarouselItem key={index} className="pl-4 basis-full md:basis-1/2">
                     <WebTestimonialCard {...item} />
                   </CarouselItem>
                 ))}

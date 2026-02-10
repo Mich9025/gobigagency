@@ -29,10 +29,10 @@ const MarketingWork = ({ title, sub_title, action_btn, projects }: Props) => {
         <div className="pt-[95px] 2xl:pt-[125px]">
           <div className="text-center">
             <div className="has_fade_anim">
-              <h2 className="text-[35px] md:text-[40px] lg:text-[50px] xl:text-[270px] leading-[.81] inline-block relative">
-                <span className="text-[30px] xl:!font-normal static xl:absolute xl:text-[30px] top-0 start-0 mt-5 xl:after:content-[''] after:hidden after:xl:block after:absolute after:w-[300px] after:h-[1px] after:bg-text after:top-1/2 after:translate-y-[-50%] after:start-[calc(100%+30px)]">
+              <h2 className="text-[35px] md:text-[40px] lg:text-[50px] xl:text-[170px] leading-[.81] inline-block relative">
+                {/* <span className="text-[30px] xl:!font-normal static xl:absolute xl:text-[30px] top-0 start-0 mt-5 xl:after:content-[''] after:hidden after:xl:block after:absolute after:w-[300px] after:h-[1px] after:bg-text after:top-1/2 after:translate-y-[-50%] after:start-[calc(100%+30px)]">
                   {sub_title}
-                </span>{" "}
+                </span>{" "} */}
                 {title}
               </h2>
             </div>

@@ -11,7 +11,7 @@ type Props = {
   clients: {
     image: {
       dark: string;
-      light: string;
+      light?: string;
     };
   }[];
 };
@@ -40,18 +40,22 @@ const MarketingClients = ({ title, clients }: Props) => {
             data-fade-offset="50"
           >
             <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-5 border-t border-s border-border-2">
-              {clients.slice(0, 10).map((item, index) => (
+              {clients.slice(0, 35).map((item, index) => (
                 <div
                   className="h-[100px] md:h-[120px] xl:h-[150px] 2xl:h-[170px] p-5 border-e border-b inline-flex justify-center items-center border-border-2 group"
                   key={index}
                 >
                   <ImageComponent
-                    src={item.image.dark}
-                    darkSrc={item.image.light}
+                    src={item.image.light || item.image.dark}
+                    darkSrc={item.image.dark}
                     width={102}
                     height={38}
                     alt="client"
-                    className="opacity-70 group-hover:opacity-100 transition-all duration-300 w-auto object-contain"
+                    className={`opacity-70 group-hover:opacity-100 transition-all duration-300 w-auto object-contain ${
+                      !item.image.light
+                        ? "brightness-0 opacity-50 dark:brightness-100 dark:opacity-100 dark:invert-0"
+                        : ""
+                    }`}
                   />
                 </div>
               ))}

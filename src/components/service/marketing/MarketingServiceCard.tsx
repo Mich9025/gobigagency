@@ -38,7 +38,7 @@ const MarketingServiceCard = ({ data, slug }: TServiceType) => {
                 textColor={"text-sm text-text group-hover:text-text-fixed"}
                 arrowWidthHeight="w-[40px] h-[40px]"
                 textClassName="px-[22px] font-normal"
-                buttonText="Explore services"
+                buttonText="Explorar servicio"
                 rootClassName="wc-swap-btn-sm"
               />
             </div>

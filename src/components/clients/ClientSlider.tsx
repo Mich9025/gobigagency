@@ -10,7 +10,7 @@ type Props = {
   clients: {
     image: {
       dark: string;
-      light: string;
+      light?: string;
     };
   }[];
   shapeImage?: string;

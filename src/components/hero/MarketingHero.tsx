@@ -20,7 +20,9 @@ type Props = {
     dark: string;
   };
   info: {
+    customers_label_1: string;
     customers: string;
+    customers_label_2: string;
     client_img: {
       light: string;
       dark: string;
@@ -82,7 +84,7 @@ const MarketingHero = ({ title, sub_title, shape_1, shape_2, info }: Props) => {
                 <MarketingSectionTitle
                   title={title}
                   heading1
-                  className="!font-light"
+                  className="!font-light !font-semibold"
                 />
               </div>
             </div>
@@ -103,9 +105,9 @@ const MarketingHero = ({ title, sub_title, shape_1, shape_2, info }: Props) => {
                 </div>
                 <p className="leading-[1.22] max-w-[193px] mt-[15px]">
                   <span className="underline [text-decoration-thickness:1px] underline-offset-4 text-text">
-                    We have {info.customers}
+                    {info.customers_label_1} {info.customers}
                   </span>{" "}
-                  customers word-wide
+                  {info.customers_label_2}
                 </p>
               </div>
               <div className="mt-[39px] 2xl:mt-[59px]">
@@ -123,12 +125,13 @@ const MarketingHero = ({ title, sub_title, shape_1, shape_2, info }: Props) => {
                 data-fade-from="bottom"
               >
                 <ButtonSwap
-                  link="/contact"
+                  link={info.action_btn.link}
                   bgColor={"bg-theme"}
                   textColor={"text-text-fixed text-sm"}
                   arrowWidthHeight="w-[40px] h-[40px]"
                   textClassName="px-[22px] font-normal"
                   rootClassName="wc-swap-btn-sm"
+                  buttonText={info.action_btn.label}
                 />
               </div>
             </div>

@@ -16,8 +16,8 @@ const MarketingBlogCard = ({ data, slug }: TBlogType) => {
     <article className="grid gap-[20px_60px] grid-cols-1 md:grid-cols-[auto_410px] xl:grid-cols-[auto_470px] 2xl:grid-cols-[auto_520px] justify-between items-start ">
       <div className="flex items-center gap-[15px]">
         <Avatar className="w-[50px] h-[50px]">
-          <AvatarImage src={author_image} alt="avatar" />
-          <AvatarFallback>AU</AvatarFallback>
+          {/* <AvatarImage src={author_image} alt="avatar" /> */}
+          {/* <AvatarFallback>AU</AvatarFallback> */}
         </Avatar>
         <div>
           <h3
@@ -42,18 +42,21 @@ const MarketingBlogCard = ({ data, slug }: TBlogType) => {
             dangerouslySetInnerHTML={convertWithBrSpan(title2 as string)}
           />
 
-          <p className="mt-[15px]">{short_description}</p>
+          <div
+            className="mt-[15px]"
+            dangerouslySetInnerHTML={{ __html: short_description as string }}
+          />
         </div>
         <div className="mt-[33px]">
           <ButtonSwap
-            link={`/blog/marketing/${slug}`}
+            link={`/blog/${slug}`}
             bgColor={
               "bg-background border group-hover:bg-theme group-hover:border-theme"
             }
             textColor={"text-sm text-text group-hover:text-text-fixed"}
             arrowWidthHeight="w-[40px] h-[40px]"
             textClassName="px-[22px] font-normal"
-            buttonText="Read more"
+            buttonText="Leer más"
             rootClassName="wc-swap-btn-sm group"
           />
         </div>

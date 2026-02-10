@@ -1,0 +1,496 @@
+{
+  "hero": {
+    "title": "Escala tu operación con inteligencia artificial",
+    "shape": {
+      "light": "/assets/imgs/shape/img-s-74.png",
+      "dark": "/assets/imgs/shape/img-s-74-light.png"
+    },
+    "client_img": {
+      "light": "/assets/imgs/client/img-s-3.png",
+      "dark": "/assets/imgs/client/img-s-3-light.png"
+    },
+    "customers": "",
+    "customers_text_1": "Tenemos",
+    "customers_text_2": "Casos de Éxito",
+    "customers_text_3": "en el mundo",
+    "info": {
+      "thumb": {
+        "light": "http://cms.gobigagency.co/wp-content/uploads/2026/02/IA-ICON.png",
+        "dark": "/assets/imgs/gallery/img-s-81-light.png"
+      },
+      "description": "Implementamos capas de IA que optimizan su toma de decisiones, automatizan su flujo de trabajo y multiplican su capacidad instalada.",
+      "action_btn": {
+        "enable": true,
+        "label": "Conversemos",
+        "link": "/contacto"
+      }
+    },
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/77578.jpg",
+    "feature_text": "Talentos diversos y una pasión compartida"
+  },
+  "about": {
+    "title": "La IA no reemplaza el talento humano; lo libera de la carga transaccional",
+    "description": [
+      "Al integrar modelos de procesamiento inteligente en su estructura actual, transformamos cuellos de botella en flujos de trabajo autónomos.",
+      "Esto permite reducir drásticamente los tiempos de respuesta, eliminar el error humano y procesar volúmenes de datos que serían inalcanzables de forma manual, garantizando una operación que nunca duerme."
+    ],
+    "action_btn": {
+      "enable": true,
+      "label": "Conoce más",
+      "link": "/about"
+    }
+  },
+  "infoSection": {
+    "bg_img": "/assets/imgs/shape/img-s-75.png",
+    "shape_img": "/assets/imgs/shape/img-s-76.png",
+    "small_shape": {
+      "light": "/assets/imgs/shape/img-s-77.png",
+      "dark": "/assets/imgs/shape/img-s-77-dark.png"
+    },
+    "info": [
+      {
+        "title": "Networking",
+        "description": "Implementamos capas de IA que analizan patrones de consumo en tiempo real para alinear su contenido con los criterios de los algoritmos de recomendación."
+      },
+      {
+        "title": "Integraciones a medida",
+        "description": "Diseñamos un cerebro operativo que se acopla directamente a su arquitectura actual (CRM y Web)."
+      },
+      {
+        "title": "Automatización escalable",
+        "description": "El sistema traduce la complejidad de la data en decisiones tácticas, optimizando la atención y la conversión de forma autónoma."
+      }
+    ],
+    "tags": [
+      "IA Integrada",
+      "Automatización",
+      "Relevancia Regional",
+      "Análisis de Mercado",
+      "Conexión de Datos"      
+    ]
+  },
+  "features": {
+    "title": "Convierte cada interacción en una oportunidad de crecimiento.",
+    "image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/1106.jpg",
+    "sub_title": "Ai powered by <br> GoBig Agency",
+    "sub_icon": "/assets/imgs/shape/img-s-78.png",
+    "action_btn": {
+      "enable": true,
+      "label": "Conversemos",
+      "link": "/contacto"
+    },
+    "features": [
+      {
+        "icon": "/assets/imgs/shape/img-s-79.png",
+        "title": "Atención Predictiva",
+        "description": "Agentes de IA capaces de resolver dudas complejas y cerrar ventas en segundos."
+      },
+      {
+        "icon": "/assets/imgs/shape/img-s-80.png",
+        "title": "Automatización de Contenidos",
+        "description": "Generación y adaptación masiva de mensajes personalizados para cada canal."
+      },
+      {
+        "icon": "/assets/imgs/shape/img-s-81.png",
+        "title": "Lead Scoring Dinámico",
+        "description": "Calificación inmediata de prospectos para que su equipo comercial solo hable con clientes listos para comprar."
+      },
+      {
+        "icon": "/assets/imgs/shape/img-s-81.png",
+        "title": "Analítica Prescriptiva",
+        "description": "Reportes que no solo dicen qué pasó, sino qué acciones exactas debe tomar mañana."
+      }
+    ]
+  },
+  "service": {
+    "title": "Ai featured services by arolax"
+  },
+  "services": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "Central algorithm",
+        "icon": "",
+        "bg_video": "",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "We closely collaborate with our clients to understand the needs and goals of the key to design",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "API Development",
+          "WordPress",
+          "Cloud Migration",
+          "Front End Development",
+          "JavaScript",
+          "Fluter Framework"
+        ],
+        "faq_title": "Product making for friendly users",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Central algorithm",
+          "meta_description": "Central algorithm description"
+        }
+      },
+      "slug": "central-algorithm",
+      "content": "We're looking for a Junior - Mid-level Designer to join our team. \r\nYou'll support the execution of graphic and digital design projects, working closely with the internal team of creatives, project managers, \r\nthe Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles, an openness to learn and take direction, along with a strong aesthetic design intuition.\r\n\r\nInternal team of creatives, project managers, the Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planning and sketching\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Team working\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Flowchart and wireframe\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"User experience Testing\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## We replace unreliable wirefreme and expensive agencies for one of the best organized layer.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Receive your design within a few business days, and be updated on the process. Everything you need for a digitally driven brand. Defined proposition. Conceptual realisation. Logo, type, look, feel, tone, movement, content - we've got it covered.\"\r\n  description2=\"Getting your brand message out there. We create dynamic campaign creative that engages audiences, wherever they are most talented. Bring your brand to life, communicate your value proposition with agile setup across creativity.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "Networking",
+        "icon": "",
+        "bg_video": "",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "We closely collaborate with our clients to understand the needs and goals of the key to design",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "API Development",
+          "WordPress",
+          "Cloud Migration",
+          "Front End Development",
+          "JavaScript",
+          "Fluter Framework"
+        ],
+        "faq_title": "Product making for friendly users",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Networking",
+          "meta_description": "Networking description"
+        }
+      },
+      "slug": "networking",
+      "content": "We're looking for a Junior - Mid-level Designer to join our team. \r\nYou'll support the execution of graphic and digital design projects, working closely with the internal team of creatives, project managers, \r\nthe Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles, an openness to learn and take direction, along with a strong aesthetic design intuition.\r\n\r\nInternal team of creatives, project managers, the Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planning and sketching\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Team working\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Flowchart and wireframe\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"User experience Testing\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## We replace unreliable wirefreme and expensive agencies for one of the best organized layer.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Receive your design within a few business days, and be updated on the process. Everything you need for a digitally driven brand. Defined proposition. Conceptual realisation. Logo, type, look, feel, tone, movement, content - we've got it covered.\"\r\n  description2=\"Getting your brand message out there. We create dynamic campaign creative that engages audiences, wherever they are most talented. Bring your brand to life, communicate your value proposition with agile setup across creativity.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 3,
+        "title": "Server security",
+        "icon": "",
+        "bg_video": "",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "We closely collaborate with our clients to understand the needs and goals of the key to design",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "API Development",
+          "WordPress",
+          "Cloud Migration",
+          "Front End Development",
+          "JavaScript",
+          "Fluter Framework"
+        ],
+        "faq_title": "Product making for friendly users",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Server security",
+          "meta_description": "Server security description"
+        }
+      },
+      "slug": "server-security",
+      "content": "We're looking for a Junior - Mid-level Designer to join our team. \r\nYou'll support the execution of graphic and digital design projects, working closely with the internal team of creatives, project managers, \r\nthe Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles, an openness to learn and take direction, along with a strong aesthetic design intuition.\r\n\r\nInternal team of creatives, project managers, the Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planning and sketching\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Team working\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Flowchart and wireframe\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"User experience Testing\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## We replace unreliable wirefreme and expensive agencies for one of the best organized layer.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Receive your design within a few business days, and be updated on the process. Everything you need for a digitally driven brand. Defined proposition. Conceptual realisation. Logo, type, look, feel, tone, movement, content - we've got it covered.\"\r\n  description2=\"Getting your brand message out there. We create dynamic campaign creative that engages audiences, wherever they are most talented. Bring your brand to life, communicate your value proposition with agile setup across creativity.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 4,
+        "title": "Firewall deep prompt",
+        "icon": "",
+        "bg_video": "",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "We closely collaborate with our clients to understand the needs and goals of the key to design",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "API Development",
+          "WordPress",
+          "Cloud Migration",
+          "Front End Development",
+          "JavaScript",
+          "Fluter Framework"
+        ],
+        "faq_title": "Product making for friendly users",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Firewall deep prompt",
+          "meta_description": "Firewall deep prompt description"
+        }
+      },
+      "slug": "firewall-deep-prompt",
+      "content": "We're looking for a Junior - Mid-level Designer to join our team. \r\nYou'll support the execution of graphic and digital design projects, working closely with the internal team of creatives, project managers, \r\nthe Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles, an openness to learn and take direction, along with a strong aesthetic design intuition.\r\n\r\nInternal team of creatives, project managers, the Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planning and sketching\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Team working\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Flowchart and wireframe\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"User experience Testing\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## We replace unreliable wirefreme and expensive agencies for one of the best organized layer.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Receive your design within a few business days, and be updated on the process. Everything you need for a digitally driven brand. Defined proposition. Conceptual realisation. Logo, type, look, feel, tone, movement, content - we've got it covered.\"\r\n  description2=\"Getting your brand message out there. We create dynamic campaign creative that engages audiences, wherever they are most talented. Bring your brand to life, communicate your value proposition with agile setup across creativity.\"\r\n  />\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 5,
+        "title": "Data structure",
+        "icon": "",
+        "bg_video": "",
+        "image": "/assets/imgs/gallery/img-sd-89.png",
+        "description": "We closely collaborate with our clients to understand the needs and goals of the key to design",
+        "contactTitle": "Start your experience with Arolax",
+        "btn_text": "Let's get in touch",
+        "features": [
+          "API Development",
+          "WordPress",
+          "Cloud Migration",
+          "Front End Development",
+          "JavaScript",
+          "Fluter Framework"
+        ],
+        "faq_title": "Product making for friendly users",
+        "faqs": [
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Bring their individual experience and creative",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Human centred design to challenges",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Design should enrich our day",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          },
+          {
+            "question": "Developing core web applications",
+            "answer": "We deploy world-class creative design, team on demand. that can design surest measure's of success is when a client partner with more than once build ship scale."
+          }
+        ],
+        "meta": {
+          "meta_title": "Data structure",
+          "meta_description": "Data structure description"
+        }
+      },
+      "slug": "data-structure",
+      "content": "We're looking for a Junior - Mid-level Designer to join our team. \r\nYou'll support the execution of graphic and digital design projects, working closely with the internal team of creatives, project managers, \r\nthe Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles, an openness to learn and take direction, along with a strong aesthetic design intuition.\r\n\r\nInternal team of creatives, project managers, the Creative Director and development team to blend user needs and business goals into seamless, effective design experiences. \r\nYou will need to demonstrate a fundamental understanding of design principles\r\n<div className=\"border-0 lg:border-t-[1px] mt-[66px]\">\r\n  <div className=\"working-steps grid gap-y-[40px] gap-x-[30px] sm:grid-cols-2 lg:grid-cols-4 container2\">\r\n    <WorkStep title=\"Planning and sketching\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Team working\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"Flowchart and wireframe\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n    <WorkStep title=\"User experience Testing\" description=\"Modern and unique design practically point of view, it risks not meeting the huge expectations\"/>\r\n  </div>\r\n</div>\r\n<div className=\"mt-[53px] grid gap-[10px] grid-cols-2 lg:gap-[30px] sm:grid-cols-3 container2\">\r\n<img src=\"/assets/imgs/gallery/img-s-89.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-90.jpg\"/>\r\n<img src=\"/assets/imgs/gallery/img-s-91.jpg\"/>\r\n</div>\r\n\r\n<div className=\"features-area container2 section-spacing-top\">\r\n  ## We replace unreliable wirefreme and expensive agencies for one of the best organized layer.\r\n  <FeatureContent \r\n  img = \"/assets/imgs/gallery/img-s-92.jpg\"\r\n  description1 = \"Receive your design within a few business days, and be updated on the process. Everything you need for a digitally driven brand. Defined proposition. Conceptual realisation. Logo, type, look, feel, tone, movement, content - we've got it covered.\"\r\n  description2=\"Getting your brand message out there. We create dynamic campaign creative that engages audiences, wherever they are most talented. Bring your brand to life, communicate your value proposition with agile setup across creativity.\"\r\n  />\r\n</div>"
+    }
+  ],
+  "video": {
+    "bg_image": "http://cms.gobigagency.co/wp-content/uploads/2026/02/8463-e1770693147946.jpg",
+    "video": "https://crowdytheme.com/assets/wp-content/uploads/2024/06/arolux-branding-agency-video.mp4",
+    "title": "Podemos brindarte soluciones de IA que transformen tu negocio.",
+    "info_list": [
+      "Auditoría de soluciones existentes",
+      "Ciencia de datos y evaluación",
+      "Análisis de ROI"
+    ]
+  },
+  "client": {
+    "title": "Casos de Éxito",
+    "clients": [
+      {
+        "icon": {
+          "light": "/assets/imgs/brand/img-s-13.png",
+          "dark": "/assets/imgs/brand/img-s-13-light.png"
+        },
+        "name": "NVO",
+        "description": "Activación manual de aliados sin una validación de capacitación que fuera efectiva."
+      },
+      {
+        "icon": {
+          "light": "/assets/imgs/brand/img-s-14.png",
+          "dark": "/assets/imgs/brand/img-s-14-light.png"
+        },
+        "name": "Adidas",
+        "description": "Emphasize the knowledge of your team in developing and networks handles needs from corporate robust features"
+      },
+      {
+        "icon": {
+          "light": "/assets/imgs/brand/img-s-16.png",
+          "dark": "/assets/imgs/brand/img-s-16-light.png"
+        },
+        "name": "Netflix",
+        "description": "For company sites focused on lead generation and sales, provides all the tools for high-converting funnels"
+      },
+      {
+        "icon": {
+          "light": "/assets/imgs/brand/img-s-18.png",
+          "dark": "/assets/imgs/brand/img-s-18-light.png"
+        },
+        "name": "Stripe",
+        "description": "The sleek, modern design makes a statement while still being flexible enough to fit the needs of diverse websites"
+      }
+    ]
+  },
+  "faqData": {
+    "title": "Claridad total sobre tu próxima evolución tecnológica",
+    "description": "Soluciones de software de última generación potenciadas por IA. Resolvemos la complejidad técnica para que tú te enfoques en el crecimiento, integrando procesos inteligentes en tus servidores y estrategias de mercado con total seguridad.",
+    "action_btn": {
+      "enable": true,
+      "label": "Learn More",
+      "link": "/about"
+    },
+    "faqs": [
+      {
+        "question": "¿Qué nivel de autonomía tiene la IA en el Software?",
+        "answer": "Nuestras soluciones no son solo 'artificiales'; son sistemas autónomos que aprenden de tus flujos de trabajo para optimizar procesos en tiempo real."
+      },
+      {
+        "question": "¿Cómo gestionan la Conexión de Datos entre mi software actual y su IA?",
+        "answer": "Diseñamos integraciones (APIs) que permiten un flujo de datos bidireccional seguro, asegurando que el software de IA se comunique perfectamente con tu infraestructura existente."
+      },
+      {
+        "question": "¿Cómo protegen la Identidad y seguridad de mi arquitectura?",
+        "answer": "La seguridad es el núcleo de nuestro desarrollo. Implementamos protocolos de identidad avanzada para asegurar que solo el personal autorizado acceda a las funciones críticas de la IA."
+      },
+      {
+        "question": "¿Qué incluye el Diagnóstico de Negocio antes del desarrollo?",
+        "answer": "Evaluamos tu arquitectura técnica y tus objetivos de marketing para diseñar una hoja de ruta de software personalizada que garantice el retorno de inversión."
+      }
+    ]
+  },
+  "blog": {
+    "title": "Blog IA",
+    "action_btn": {
+      "enable": true,
+      "label": "Read all news",
+      "link": "/blog"
+    }
+  },
+  "blogs": [
+    {
+      "data": {
+        "draft": false,
+        "id": 1,
+        "title": "How to bring fold to your startup agency with Arolax",
+        "image": "/assets/imgs/blog/img-s-9.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-15.jpg",
+        "tags": [
+          {
+            "name": "Branding",
+            "link": "/"
+          }
+        ],
+        "published_date": "16 Jan 2024",
+        "likes": 25384,
+        "comments": 345,
+        "shares": 25,
+        "views": 465,
+        "meta": {
+          "meta_title": "How to bring fold to your startup agency with Arolax",
+          "meta_description": "How to bring fold to your startup agency with Arolax description"
+        }
+      },
+      "slug": "how-to-bring-fold-to-your-startup-agency-with-arolax",
+      "content": "\r\n<Quote text=\"Comfortable full leather lining eye-catching unique detail to the toe low 'cut-away' sides clean and sleek harmony.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nWe love to bring designs to life as a developer, and I aim to do this using whatever front end tools aren't necessary. \r\nmy preferred tools are more moderns JavaScript libraries like React.js but I like use whatever best for the websites needs. \r\nThere are several reasons why a business would consider a rebrand and it doesn't necessarily mean the business has been unsuccessful.\r\n\r\nBut in order that you may see whence all this born error of those who accuse pleasure and praise pain will open the whole matter, \r\nand explain the very things which were said by that discoverer of truth and, as it's were, \r\nthe architect of a happy life.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Research & strategy\"/>\r\n\r\nAlways ready to push the boundaries, especially when it comes to our own platform, \r\nOur analytical eye create a site that was visually engaging and also optimised for maximum performance. \r\nIt also perfectly reflects the journey to help it tell a story to increase its understanding and drive action. To create a site that was visually engaging for maximum performance.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Brand Development\"/>\r\n  <Service title=\"UX/UI Design\"/>\r\n  <Service title=\"Front-end Development\"/>\r\n  <Service title=\"Copywriting\"/>\r\n  <Service title=\"Shopify Development\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"WorkFrame\"/>\r\n\r\nJust like other pseudo-elements and pseudo-class selectors, :not() can be chained with other pseudon classes and pseudo-elements. \r\nFor example, the following will add a “New!” word to list items that do not have a .old class name, using the ::after pseudo-element:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    },
+    {
+      "data": {
+        "draft": false,
+        "id": 2,
+        "title": "How to manage a talented and successful design team",
+        "image": "/assets/imgs/blog/img-s-9.jpg",
+        "thumb_img": "/assets/imgs/blog/img-s-16.jpg",
+        "tags": [
+          {
+            "name": "Branding",
+            "link": "/"
+          }
+        ],
+        "published_date": "12 Dec 2024",
+        "likes": 25384,
+        "comments": 345,
+        "shares": 25,
+        "views": 465,
+        "meta": {
+          "meta_title": "How to manage a talented and successful design team",
+          "meta_description": "How to manage a talented and successful design team description"
+        }
+      },
+      "slug": "how-to-manage-a-talented-and-successful-design-team",
+      "content": "\r\n<Quote text=\"Comfortable full leather lining eye-catching unique detail to the toe low 'cut-away' sides clean and sleek harmony.\"\r\nauthor=\"Ceyhan Özçivit\"\r\n/>\r\n\r\nWe love to bring designs to life as a developer, and I aim to do this using whatever front end tools aren't necessary. \r\nmy preferred tools are more moderns JavaScript libraries like React.js but I like use whatever best for the websites needs. \r\nThere are several reasons why a business would consider a rebrand and it doesn't necessarily mean the business has been unsuccessful.\r\n\r\nBut in order that you may see whence all this born error of those who accuse pleasure and praise pain will open the whole matter, \r\nand explain the very things which were said by that discoverer of truth and, as it's were, \r\nthe architect of a happy life.\r\n\r\n<div className=\"thumb mt-[34px] overflow-hidden w-full max-w-full\">\r\n  <img src=\"/assets/imgs/blog/img-s-27.jpg\" alt=\"thumb_1\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"Research & strategy\"/>\r\n\r\nAlways ready to push the boundaries, especially when it comes to our own platform, \r\nOur analytical eye create a site that was visually engaging and also optimised for maximum performance. \r\nIt also perfectly reflects the journey to help it tell a story to increase its understanding and drive action. To create a site that was visually engaging for maximum performance.\r\n\r\n<div className=\"mt-[21px]\">\r\n  <Service title=\"Brand Development\"/>\r\n  <Service title=\"UX/UI Design\"/>\r\n  <Service title=\"Front-end Development\"/>\r\n  <Service title=\"Copywriting\"/>\r\n  <Service title=\"Shopify Development\"/>\r\n</div>\r\n\r\n<ContentTitle title=\"WorkFrame\"/>\r\n\r\nJust like other pseudo-elements and pseudo-class selectors, :not() can be chained with other pseudon classes and pseudo-elements. \r\nFor example, the following will add a “New!” word to list items that do not have a .old class name, using the ::after pseudo-element:\r\n\r\n<div className=\"mt-[30px] lg:mt-[30px]\">\r\n  <img src=\"/assets/imgs/blog/img-s-28.jpg\" alt=\"code_snip\" className=\"w-full\"/>\r\n</div>"
+    }
+  ]
+}

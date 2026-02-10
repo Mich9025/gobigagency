@@ -6,7 +6,7 @@ import ImageComponent from "./ImageComponent";
 import { useDirection } from "@/context/app.context";
 
 type Props = {
-  slides: { image: { dark: string; light: string } }[];
+  slides: { image: { dark: string; light?: string } }[];
   identity?: string;
   speed?: number;
   width?: number;

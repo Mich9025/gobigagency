@@ -1,0 +1,40 @@
+{
+  "title": "{Conversemos} <br> Ahora",
+  "subtitle": "Si deseas trabajar con nosotros o simplemente ponerte en contacto, nos encantaría saber de ti.",
+  "locationData": [
+    {
+      "id": 1,
+      "city": "Colombia",
+      "address": "michelle.mendez@gobigagency.co \n (+57) 324 5034912"
+    },
+    {
+      "id": 2,
+      "city": "Peru",
+      "address": "martin@gobigagency.co \n (+57) 302 7470067"
+    }
+  ],
+  "navData": [
+    {
+      "id": 1,
+      "name": "Sobre nosotros",
+      "path": "/about"
+    },
+    {
+      "id": 2,
+      "name": "Politica de privacidad",
+      "path": "/politica-de-privacidad"
+    },
+    {
+      "id": 3,
+      "name": "Trabaja con nosotros",
+      "path": "/trabaja-con-nosotros"
+    }
+  ],
+  "copyright": {
+    "enable": true,
+    "label": "© 2025-26",
+    "label_2": "Todos los derechos reservados por",
+    "company": "GoBig Agency",
+    "link": "https://gobigagency.co/"
+  }
+}

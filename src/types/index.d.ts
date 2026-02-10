@@ -89,29 +89,29 @@ type TTeamMemberType = {
 
 type TBlogType = {
   data: {
-    draft: boolean;
-    id: number;
+    draft?: boolean;
+    id?: number;
     title: string;
     title2?: string;
     short_description?: string;
     author_name?: string;
     author_image?: string;
     location?: string;
-    image: string;
-    thumb_img: string;
-    tags: {
+    image?: string;
+    thumb_img?: string;
+    tags?: {
       name: string;
       link: string;
     }[];
     published_date: string;
     likes: number;
     comments: number;
-    shares: number;
-    views: number;
+    shares?: number;
+    views?: number;
   };
 
-  slug: string;
-  content: any;
+  slug?: string;
+  content?: any;
 };
 
 type TjobDataType = {
@@ -170,6 +170,9 @@ export type TAiAgencyHero = {
     dark: string;
   };
   customers: string;
+  customers_text_1: string;
+  customers_text_2: string;
+  customers_text_3: string;
   info: {
     thumb: {
       light: string;
