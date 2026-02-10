@@ -13,7 +13,7 @@ const DesignBlogCard = ({ data, slug }: TBlogType) => {
       <div className="xl:me-[-60px] overflow-hidden">
         <Link href={`/blog/design/${slug}`}>
           <ImageComponent
-            src={thumb_img}
+            src={thumb_img || "/assets/imgs/blog/img-s-1.jpg"}
             width={330}
             height={450}
             alt="thumb blog"
@@ -25,7 +25,7 @@ const DesignBlogCard = ({ data, slug }: TBlogType) => {
         <div>
           <div className="flex gap-[5px] items-center">
             <span className="text-[14px] inline-block text-text-3">
-              {tags[0]?.name}
+              {tags?.[0]?.name}
             </span>
             <span className="has-left-line text-[14px] text-text-3 ps-[25px] inline-block relative before:content-[''] before:absolute before:w-[20px] before:bg-current before:h-[1px] before:top-[50%] before:translate-y-[-50%] before:start-0">
               {published_date}

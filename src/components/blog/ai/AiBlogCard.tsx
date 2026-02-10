@@ -13,7 +13,7 @@ const AiBlogCard = ({ data, slug }: TBlogType) => {
       <div className="overflow-hidden">
         <Link href={`/blog/ai/${slug}`}>
           <ImageComponent
-            src={thumb_img}
+            src={thumb_img || "/assets/imgs/blog/img-s-1.jpg"}
             width={330}
             height={450}
             alt="blog thumb"
@@ -24,7 +24,7 @@ const AiBlogCard = ({ data, slug }: TBlogType) => {
       <div className="pt-[27px] pb-[25px] px-[15px] lg:pt-[37px] lg:pb-[45px] lg:px-10 flex flex-col justify-between">
         <div>
           <div className="flex gap-[5px] items-center">
-            <span className="text-[14px] inline-block">{tags[0]?.name}</span>
+            <span className="text-[14px] inline-block">{tags?.[0]?.name}</span>
             <span className="text-text-3 text-[14px] ps-[25px] relative before:content-[''] before:absolute before:w-[20px] before:bg-current before:h-[1px] before:top-[50%] before:translate-y-[-50%] before:start-0">
               {published_date}
             </span>

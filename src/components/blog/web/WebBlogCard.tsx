@@ -21,7 +21,7 @@ const WebBlogCard = ({ data, slug }: TBlogType) => {
           </h2>
           <div className="mt-[28px] xl:mt-[38px] me-[-45px] overflow-hidden">
             <ImageComponent
-              src={thumb_img}
+              src={thumb_img || "/assets/imgs/blog/img-s-1.jpg"}
               width={365}
               height={280}
               alt="thumb-img"

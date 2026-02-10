@@ -10,7 +10,7 @@ const SeoBlogCard = ({ data, slug }: TBlogType) => {
       <div className="thumb overflow-hidden">
         <Link href={`/blog/seo/${slug}`}>
           <Image
-            src={thumb_img}
+            src={thumb_img || "/assets/imgs/blog/img-s-1.jpg"}
             alt="blog image"
             width={330}
             height={450}
@@ -21,7 +21,7 @@ const SeoBlogCard = ({ data, slug }: TBlogType) => {
       <div className="bg-background border border-border pt-[27px] px-[15px] pb-[25px] lg:pt-[37px] lg:px-10 lg:pb-[45px] border-s-0 flex flex-col justify-between">
         <div className="content">
           <div className="meta text-[14px]  text-text flex gap-[5px] items-center">
-            <span className="tag">{tags[0]?.name}</span>
+            <span className="tag">{tags?.[0]?.name}</span>
             <span className="date relative inline-block text-text-3 has-left-line ps-[25px] before:w-[20px] before:content-[''] before:absolute before:h-[1px] before:bg-current before:start-0 before:top-1/2 before:-translate-y-1/2">
               {published_date}
             </span>

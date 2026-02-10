@@ -12,7 +12,7 @@ const FeaturedBlogCard = ({ data, slug }: TBlogType) => {
         <div className=" w-full h-full !overflow-hidden">
           <Image
             alt="blog_image"
-            src={image}
+            src={image || "/assets/imgs/blog/img-s-1.jpg"}
             width={410}
             height={260}
             style={{ objectFit: "cover" }}

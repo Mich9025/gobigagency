@@ -16,7 +16,7 @@ const BranBlogCard = ({ data, slug }: TBlogType) => {
           <Image
             height={400}
             width={550}
-            src={image}
+            src={image || "/assets/imgs/blog/img-s-1.jpg"}
             alt="blog-img"
             className="group-hover:scale-105 transition-all duration-500"
           />
@@ -30,7 +30,7 @@ const BranBlogCard = ({ data, slug }: TBlogType) => {
           <div className="flex gap-[5px] mt-[17px] text-text-3">
             <Link href="#">
               <span className="text-[12px] px-[14px] py-2 xl:text-[14px] xl:px-4 xl:py-3 uppercase border inline-block rounded-[40px] hover:text-text">
-                {tags[0]?.name}
+                {tags?.[0]?.name}
               </span>
             </Link>
             <span className="text-[12px] px-[14px] py-2 xl:text-[14px] xl:px-4 xl:py-3 uppercase border inline-block rounded-[40px]">
